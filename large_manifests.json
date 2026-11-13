@@ -1,0 +1,3323 @@
+{
+  "created_utc": "2026-11-13T16:19:18.091075+00:00",
+  "repository": "li-qi-lin/audio-driven-v5-large-manifests-backup",
+  "release_tag": "large-manifests-20261113",
+  "original_file_count": 162,
+  "original_bytes": 179885025283,
+  "compressed_bytes": 20362189198,
+  "code_backup_url": "https://github.com/liqilin-eudaemonia/audio-driven-v5-data-processing/tree/backup-20261113-155045",
+  "files": [
+    {
+      "index": 1,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_v3_20261105/tables/sample_stats.jsonl",
+      "size": 15757581809,
+      "mtime_ns": 1793862937042522675,
+      "mode": 33188,
+      "sha256": "9fff47eceb693e9c7e2cbbf782a13d860a0bd5ac667e75af78a4a8bb22c14314",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-001.gz.part001",
+          "size": 536870912,
+          "sha256": "a028f47f2fece3cac7b03f9c74f8ca0d38525f6ed93d3c50f080e815742a530e",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-001.gz.part001"
+        },
+        {
+          "name": "manifest-001.gz.part002",
+          "size": 536870912,
+          "sha256": "3c3b22eae05d300df320a4cbde558a804c2bfe69e564418553a0bd817a506693",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-001.gz.part002"
+        },
+        {
+          "name": "manifest-001.gz.part003",
+          "size": 476116871,
+          "sha256": "7ea174f110ff4ad1666d434e1442bc1e0b2b6029dc87dff2533fba8a8dea6925",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-001.gz.part003"
+        }
+      ],
+      "packed_bytes": 1549858695,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:18:54.357303+00:00"
+    },
+    {
+      "index": 2,
+      "path": "audio-driven-v5/experiments/listen_richness_full_j_20261031/tables/sample_stats.jsonl",
+      "size": 15333035162,
+      "mtime_ns": 1793467484500066436,
+      "mode": 33188,
+      "sha256": "b1e0394dc06912adaeba758e9917a9175d5ee7cb1279844f0e96d72728ce3787",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-002.gz.part001",
+          "size": 536870912,
+          "sha256": "2dd1781a184a8eb65451d9703bf4990a76e16d7c83dd1bef0bf207dd1a37930a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-002.gz.part001"
+        },
+        {
+          "name": "manifest-002.gz.part002",
+          "size": 536870912,
+          "sha256": "bc8a143274bef24b448159bf60aca9d17457a647a57383ab63470a4ea0ebb651",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-002.gz.part002"
+        },
+        {
+          "name": "manifest-002.gz.part003",
+          "size": 468765281,
+          "sha256": "ce230fc55642367e25ae58d521fb9cb702a752970027e2e9a5fc8c7fb44c8b29",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-002.gz.part003"
+        }
+      ],
+      "packed_bytes": 1542507105,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:18:57.692043+00:00"
+    },
+    {
+      "index": 3,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_local_full/manifests/train_primary_keep_candidate.jsonl",
+      "size": 13920361903,
+      "mtime_ns": 1792763366518493095,
+      "mode": 33188,
+      "sha256": "95ed3af225405cda961d28259e92a46ba150ccb1435e35d1c9aed72b22772b17",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-003.gz.part001",
+          "size": 536870912,
+          "sha256": "ded7c79342e9e6fc9fa6516cca49d7a4cacd1c200a3ac021d01c5c1c1ac62346",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-003.gz.part001"
+        },
+        {
+          "name": "manifest-003.gz.part002",
+          "size": 536870912,
+          "sha256": "238476ca913db2b8c4f77d7e650a5802628a58010399c0bf69fdf52656caeab5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-003.gz.part002"
+        },
+        {
+          "name": "manifest-003.gz.part003",
+          "size": 536870912,
+          "sha256": "43a8fb3e3246a2235dc978f9854c48352f4b12612b561cca1075b46b32768c58",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-003.gz.part003"
+        },
+        {
+          "name": "manifest-003.gz.part004",
+          "size": 9111374,
+          "sha256": "acce7c8caeeae1822ae39ab1a62256d7fe516796018d3bca8936d004ce0ef85f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-003.gz.part004"
+        }
+      ],
+      "packed_bytes": 1619724110,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:19:13.500968+00:00"
+    },
+    {
+      "index": 4,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_primary_keep_candidate.jsonl",
+      "size": 8617203139,
+      "mtime_ns": 1792746925810281299,
+      "mode": 33188,
+      "sha256": "3dd4be74850d66e092af6f90749954bc2f1aaee53ac37c20c6f39887659dee67",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-004.gz.part001",
+          "size": 536870912,
+          "sha256": "5a99e6ab338ad315901b5317e99213e02bf4109717cdca1cd718fabb397b973d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-004.gz.part001"
+        },
+        {
+          "name": "manifest-004.gz.part002",
+          "size": 421593492,
+          "sha256": "5235700f56c82e9e9e1059cd97574cbb0b84303615da7d8c2319c9344bbbd64f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-004.gz.part002"
+        }
+      ],
+      "packed_bytes": 958464404,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:16:33.521940+00:00"
+    },
+    {
+      "index": 5,
+      "path": "audio-driven-v5/experiments/listen_j_labels_upright_20261105/labels.jsonl",
+      "size": 8126644900,
+      "mtime_ns": 1793855755176706667,
+      "mode": 33188,
+      "sha256": "0851714c52e17dec6c7b5145b82dc53998ab09af0cc7ceda0b9c807192c2b389",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-005.gz.part001",
+          "size": 536870912,
+          "sha256": "3f7d5d590640b0c22c03e8d9d18e53f3ba6b97c12050dbff27573b45a9a0d888",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-005.gz.part001"
+        },
+        {
+          "name": "manifest-005.gz.part002",
+          "size": 317307206,
+          "sha256": "6600bbcfb49cf7a515d6dda3c53ba844341073db0d4e46dd9b0d926873cfdb63",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-005.gz.part002"
+        }
+      ],
+      "packed_bytes": 854178118,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:16:09.255341+00:00"
+    },
+    {
+      "index": 6,
+      "path": "audio-driven-v5/experiments/listen_j_labels_manifest_20261105/labels.jsonl",
+      "size": 8118952524,
+      "mtime_ns": 1793844684521524914,
+      "mode": 33188,
+      "sha256": "b7dc75f51c9f408ff779ad9b7c4f5e42c9eee3b3a2bfdc34eda501269547ddda",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-006.gz.part001",
+          "size": 536870912,
+          "sha256": "fb0a54a465456f3a018bd60c9c3e774a9dc90424dc0f70e4a96655d7fa1cde82",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-006.gz.part001"
+        },
+        {
+          "name": "manifest-006.gz.part002",
+          "size": 316235282,
+          "sha256": "40ae8e26e2ece4d2f73742ed09886c8f77a91e598fd5ede6e6960f40b4d07e5f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-006.gz.part002"
+        }
+      ],
+      "packed_bytes": 853106194,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:54.989865+00:00"
+    },
+    {
+      "index": 7,
+      "path": "audio-driven-v5/experiments/listen_j_labels_clean_20261105/labels.jsonl",
+      "size": 8105682208,
+      "mtime_ns": 1793849202922093734,
+      "mode": 33188,
+      "sha256": "15492f18dab0f6ac2a20d5e30397be158b3526aaedeeb2b9ebfd97864fc54697",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-007.gz.part001",
+          "size": 536870912,
+          "sha256": "6f2818e5947cada2029d0e495de9c52f7814b46b5875c06cac54d1cf0bd6678e",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-007.gz.part001"
+        },
+        {
+          "name": "manifest-007.gz.part002",
+          "size": 314753069,
+          "sha256": "8865a4a71ea0d6dc68d3d621b9f6a2ebd41ced7586fd55dd04e0519aa4cc7fcc",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-007.gz.part002"
+        }
+      ],
+      "packed_bytes": 851623981,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:58.117976+00:00"
+    },
+    {
+      "index": 8,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/integrated_labels.jsonl",
+      "size": 7361302810,
+      "mtime_ns": 1793072801778551112,
+      "mode": 33188,
+      "sha256": "8c16adc62bea5c3fc9365dd481a49bd9abbca4b722a29f930a84759b842d960e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-008.gz.part001",
+          "size": 536870912,
+          "sha256": "4ead150653d20a4b7ebb1d804dcb0784754adaa7e9bb117c27b203d9e861ec4b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-008.gz.part001"
+        },
+        {
+          "name": "manifest-008.gz.part002",
+          "size": 7625884,
+          "sha256": "d1cb6e6a6f27ea5a5ec727dfc21c74945bd19c4c5daa9b92b439a536b9370231",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-008.gz.part002"
+        }
+      ],
+      "packed_bytes": 544496796,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:22.322844+00:00"
+    },
+    {
+      "index": 9,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/integrated_labels.jsonl",
+      "size": 5214803413,
+      "mtime_ns": 1793071615589051469,
+      "mode": 33188,
+      "sha256": "14c90d37d125b168e93f7bc65de451c0cf1523516c5e9d6df59f3ce9fd41ca2a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-009.gz.part001",
+          "size": 392828172,
+          "sha256": "59fc92a91b58c783d09b8f76e3b3f2cd073655278b88794082cfbc1ffa3eadde",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-009.gz.part001"
+        }
+      ],
+      "packed_bytes": 392828172,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:44.513237+00:00"
+    },
+    {
+      "index": 10,
+      "path": "audio-driven-v5/experiments/glare_cache_28gpu_20261110/production_gpu_fer/training_cache_exports/1794356904727312067/train.jsonl",
+      "size": 3997377027,
+      "mtime_ns": 1794358733685835372,
+      "mode": 33188,
+      "sha256": "2866cbaaa02ea30d6e8c953bc6e2b76ce0b35ef7f8c7b8d906cd4b9360b82e5d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-010.gz.part001",
+          "size": 461746955,
+          "sha256": "27b9d937add7061521f64818c040756c9d95ffbfda2dc01f2aa4118feefa299f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-010.gz.part001"
+        }
+      ],
+      "packed_bytes": 461746955,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:57.884846+00:00"
+    },
+    {
+      "index": 11,
+      "path": "audio-driven-v5/experiments/listen_j_full_response_sft_20261101/train.jsonl",
+      "size": 3199298652,
+      "mtime_ns": 1793538349651706488,
+      "mode": 33188,
+      "sha256": "fa964c0db0f15cfb147461daca3723710ead79e3abd8f797dc92eea43464e1b8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-011.gz.part001",
+          "size": 503634759,
+          "sha256": "a8bbd330eb4e509baaad93eccde451bb4fd48c165ae90a1c6f5c69ed2a8749a8",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-011.gz.part001"
+        }
+      ],
+      "packed_bytes": 503634759,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:55.554143+00:00"
+    },
+    {
+      "index": 12,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/source/train.jsonl",
+      "size": 3045908908,
+      "mtime_ns": 1793884812393381506,
+      "mode": 33188,
+      "sha256": "2c940837ff7c5ae4bea0d6f5659344725ca4407f7853b5475678772461ff920b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-012.gz.part001",
+          "size": 362470000,
+          "sha256": "8ad4e1e486babc3210bc458ad7910ab62091770067923052afa1d7f04d5f9ff9",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-012.gz.part001"
+        }
+      ],
+      "packed_bytes": 362470000,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:39.306621+00:00"
+    },
+    {
+      "index": 13,
+      "path": "audio-driven-v5/experiments/glare_current500h_prosody_subset_20261110/full/official_exports/1794354452308478039/retained_train.jsonl",
+      "size": 2857045306,
+      "mtime_ns": 1794356898736323272,
+      "mode": 33188,
+      "sha256": "e1b12057f9dca0497441e8399d2977cb5db7c3b12050602cf92c0456135d4902",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-013.gz.part001",
+          "size": 290479407,
+          "sha256": "a8ca3627320b4ae966945baf78b5b9957a65cab77f4431185fdc131d2d33f51f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-013.gz.part001"
+        }
+      ],
+      "packed_bytes": 290479407,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:24.889355+00:00"
+    },
+    {
+      "index": 14,
+      "path": "audio-driven-v5/experiments/listen_richness_full_j_20261031/tables/coverage.jsonl",
+      "size": 2828211556,
+      "mtime_ns": 1793467497255808922,
+      "mode": 33188,
+      "sha256": "deee05397a5385952df06680b97411fe78740fa5c891e626fa44b23c2a0c080a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-014.gz.part001",
+          "size": 186162839,
+          "sha256": "c836fe2581b146065f6052c720bd31701c528c231653633cb2290e6d203190bf",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-014.gz.part001"
+        }
+      ],
+      "packed_bytes": 186162839,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:13.047874+00:00"
+    },
+    {
+      "index": 15,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_local_full/manifests/train_onset_reserve_keep_candidate.jsonl",
+      "size": 2577573011,
+      "mtime_ns": 1792763355326721983,
+      "mode": 33188,
+      "sha256": "3bbc04eb91ac007c1d8804acae85db1d7ca16d1d600da35780e5816f40941099",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-015.gz.part001",
+          "size": 310126636,
+          "sha256": "84366e6615d471bcb6a30add5decaa62047adf5cfad243f1a9291d350358210d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-015.gz.part001"
+        }
+      ],
+      "packed_bytes": 310126636,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:29.979003+00:00"
+    },
+    {
+      "index": 16,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_train_dev_v3_20261105/selection/selected.jsonl",
+      "size": 2550381320,
+      "mtime_ns": 1793868028773801903,
+      "mode": 33188,
+      "sha256": "d1ad15af128fb31833e1fd18ebbaae374839c21a45cce382288171d8ed7eb971",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-016.gz.part001",
+          "size": 259244865,
+          "sha256": "f63acd18dfffbd4516f9306fef6d0bef0d4cf03f8b5fe4f7be6acef1580ccc4d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-016.gz.part001"
+        }
+      ],
+      "packed_bytes": 259244865,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:14.499290+00:00"
+    },
+    {
+      "index": 17,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_v3_20261105/selection/train.jsonl",
+      "size": 2541480813,
+      "mtime_ns": 1793863119598711445,
+      "mode": 33188,
+      "sha256": "dfe47d0472339cb2333a97de27cb933621d792c9a5e4caf796b6fbe46a752b95",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-017.gz.part001",
+          "size": 259351035,
+          "sha256": "3c4af667fae423d4f23eb360c804fcba7e91ec7e07273d679eb88f58fbd01f76",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-017.gz.part001"
+        }
+      ],
+      "packed_bytes": 259351035,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:14.196664+00:00"
+    },
+    {
+      "index": 18,
+      "path": "audio-driven-v5/experiments/listen_j_smallface_response_sft_20261101/train.jsonl",
+      "size": 2355568583,
+      "mtime_ns": 1793535922487012137,
+      "mode": 33188,
+      "sha256": "b13dd1e1542937df973ec718e3c1134d6e4f7de652b762a71bff713663d85709",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-018.gz.part001",
+          "size": 365139613,
+          "sha256": "e79a9485d4680052b6e5430edf7dec7125e48160dbcad6cf39b0e42f54c5918b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-018.gz.part001"
+        }
+      ],
+      "packed_bytes": 365139613,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:20.763009+00:00"
+    },
+    {
+      "index": 19,
+      "path": "audio-driven-v5/experiments/listen_j_train_dev_response_prefixfix_20261102/current/train.jsonl",
+      "size": 2034617214,
+      "mtime_ns": 1793586807819045669,
+      "mode": 33188,
+      "sha256": "f49aa9d189109e25caa7a7de1c8432ea4a8d69e4e019eeeed84ef3452d9ea434",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-019.gz.part001",
+          "size": 315543310,
+          "sha256": "54dc1a957471fb444b3492f3b7f0a9592cf12fa7b7c8d5a5a63d308dbb0bcd99",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-019.gz.part001"
+        }
+      ],
+      "packed_bytes": 315543310,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:19.465569+00:00"
+    },
+    {
+      "index": 20,
+      "path": "audio-driven-v5/experiments/listen_j_train_dev_response_prefixfix_20261102/before_sentence_retry/train.jsonl",
+      "size": 2034236139,
+      "mtime_ns": 1793586649454748683,
+      "mode": 33188,
+      "sha256": "e18615627d73796a7cdd38989eeea5c3c4a568a460163380e150f025d8aaba0e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-020.gz.part001",
+          "size": 315485880,
+          "sha256": "1e47932fae1cdad4ac44bb5e374cfa64b5244710f4126289aac4f094250b5384",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-020.gz.part001"
+        }
+      ],
+      "packed_bytes": 315485880,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:17.096570+00:00"
+    },
+    {
+      "index": 21,
+      "path": "audio-driven-v5/experiments/listen_j_train_dev_response_prefixfix_20261102/before_quote_retry/train.jsonl",
+      "size": 2034035559,
+      "mtime_ns": 1793586417862634949,
+      "mode": 33188,
+      "sha256": "33cb3f0027877212cf0737a9acd0cfc9c2b8276fd3bce2bc88af9af9dc043f54",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-021.gz.part001",
+          "size": 315455695,
+          "sha256": "9f039d4ccc9e3c6b40ed4193a6428dba4bb6123cd4cc73fabcac23f15f5b41a4",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-021.gz.part001"
+        }
+      ],
+      "packed_bytes": 315455695,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:15.062667+00:00"
+    },
+    {
+      "index": 22,
+      "path": "audio-driven-v5/experiments/listen_j_voiced_recovery_20261102/combined/train.jsonl",
+      "size": 2014044580,
+      "mtime_ns": 1793583364733117225,
+      "mode": 33188,
+      "sha256": "daad19c3f6da31edcadb0415d76fd3fae70b56ff9090150d601d7816b0e8396b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-022.gz.part001",
+          "size": 312122409,
+          "sha256": "62d0bacf035712ecf35994d01dc0d461b8239f94cbed151bb8fd6bbcbfd11387",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-022.gz.part001"
+        }
+      ],
+      "packed_bytes": 312122409,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:21.146659+00:00"
+    },
+    {
+      "index": 23,
+      "path": "audio-driven-v5/experiments/p2_planning_sft_upright_3b_gpu7_20261105/data/train.jsonl",
+      "size": 1970836614,
+      "mtime_ns": 1793891184248822574,
+      "mode": 33188,
+      "sha256": "2ba36a307613942c905c148313c59ce29658d33975b05fcf4f941d425a41163d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-023.gz.part001",
+          "size": 235595420,
+          "sha256": "3bdb41babfaaf30baee16baa14ded198bac7d23059a9d0997b94df82e346c5b2",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-023.gz.part001"
+        }
+      ],
+      "packed_bytes": 235595420,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:01.693106+00:00"
+    },
+    {
+      "index": 24,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/final/train.jsonl",
+      "size": 1970836614,
+      "mtime_ns": 1793891184248822574,
+      "mode": 33188,
+      "sha256": "2ba36a307613942c905c148313c59ce29658d33975b05fcf4f941d425a41163d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-024.gz.part001",
+          "size": 235595420,
+          "sha256": "3bdb41babfaaf30baee16baa14ded198bac7d23059a9d0997b94df82e346c5b2",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-024.gz.part001"
+        }
+      ],
+      "packed_bytes": 235595420,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:10.219191+00:00"
+    },
+    {
+      "index": 25,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_onset_reserve_keep_candidate.jsonl",
+      "size": 1936324520,
+      "mtime_ns": 1792746925810281248,
+      "mode": 33188,
+      "sha256": "addd7b10805505c9a2229330e310dfee5a0a879639affb3b667a3dc5b3ffaeea",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-025.gz.part001",
+          "size": 228563509,
+          "sha256": "3b115d4a7c8dacf22d6d5fb253ee9144a81d2a54735eb78e3e9a143bdb90d30a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-025.gz.part001"
+        }
+      ],
+      "packed_bytes": 228563509,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:57.664862+00:00"
+    },
+    {
+      "index": 26,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_j_visual_quality_v1_20261030/node17/retained_rows.jsonl",
+      "size": 1775989207,
+      "mtime_ns": 1793442146534876743,
+      "mode": 33188,
+      "sha256": "1bcb90c840ac1be40a48d5e2a21488c87634ab872e65a3eaf2b89aa64559e5a8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-026.gz.part001",
+          "size": 141119747,
+          "sha256": "4cd3d334b82cedf43eb790df5a38b861bfe8bdc3d18d768529175ecd87ca3497",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-026.gz.part001"
+        }
+      ],
+      "packed_bytes": 141119747,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:53.391534+00:00"
+    },
+    {
+      "index": 27,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/strict/filtered/train.jsonl",
+      "size": 1748213393,
+      "mtime_ns": 1793889520603764548,
+      "mode": 33188,
+      "sha256": "0dd7678bb8b877b848313bd282a7e3a605b06f9dc1036f02f3563c8346afbf0a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-027.gz.part001",
+          "size": 207271139,
+          "sha256": "5c3a9a78b4c448e59aa86d4df728034b213acdea4a48aeff8355f33fd1f126ee",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-027.gz.part001"
+        }
+      ],
+      "packed_bytes": 207271139,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:04.862211+00:00"
+    },
+    {
+      "index": 28,
+      "path": "audio-driven-v5/experiments/listen_j_full_response_filter_20261101/filtered/train.jsonl",
+      "size": 1625035420,
+      "mtime_ns": 1793544885284400997,
+      "mode": 33188,
+      "sha256": "665ecee508cf7b9d6d1784a13b394d90340f5240923abdeea9b3dd6b05a47cfc",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-028.gz.part001",
+          "size": 249207183,
+          "sha256": "edc370f81cbf6b71f1b0da4cb0fb29899bcab0151056fbdda768b82c7bf87013",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-028.gz.part001"
+        }
+      ],
+      "packed_bytes": 249207183,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:03.649102+00:00"
+    },
+    {
+      "index": 29,
+      "path": "audio-driven-v5/experiments/listen_j_full_response_filter_20261101/filtered/rejected/train.jsonl",
+      "size": 1568290825,
+      "mtime_ns": 1793544885208402749,
+      "mode": 33188,
+      "sha256": "c9391380f3b30797a03752e2683efc20882fcf7ea79dd81116d86f3a57b8de6f",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-029.gz.part001",
+          "size": 250199611,
+          "sha256": "dfd11560e2f1da1688f13f405f3308a90048ebddfc3355923b788bd176720d3f",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-029.gz.part001"
+        }
+      ],
+      "packed_bytes": 250199611,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:16.307664+00:00"
+    },
+    {
+      "index": 30,
+      "path": "audio-driven-v5/experiments/listen_j_final_quality_selection_20261101/retained.jsonl",
+      "size": 1484913163,
+      "mtime_ns": 1793493726428148821,
+      "mode": 33188,
+      "sha256": "0423537e468fa90fb1a1bdc9a60e7802f169d801557c86ad6f01b66104abb5b1",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-030.gz.part001",
+          "size": 146699110,
+          "sha256": "971c5d1c5db86bdf15df77463e7e6a35c7c0b4c6bac5418ebd716411039689d5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-030.gz.part001"
+        }
+      ],
+      "packed_bytes": 146699110,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:44.498889+00:00"
+    },
+    {
+      "index": 31,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_j_visual_quality_v1_20261030/node8/retained_rows.jsonl",
+      "size": 1372286542,
+      "mtime_ns": 1793422409532970904,
+      "mode": 33188,
+      "sha256": "bfd935bfec54f62345699284c555d5ae78f86737b189d799a54aeb397f74be7b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-031.gz.part001",
+          "size": 109037595,
+          "sha256": "844414d091f6de363e3ebeeb7a71a6d10f6bb8523710d14a862ac63a9f26be20",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-031.gz.part001"
+        }
+      ],
+      "packed_bytes": 109037595,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:52.678582+00:00"
+    },
+    {
+      "index": 32,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/strict/filtered/rejected/train.jsonl",
+      "size": 1297695515,
+      "mtime_ns": 1793889520571765309,
+      "mode": 33188,
+      "sha256": "4e02c57654a5458a64aa41b8389971a2c39eae1a846b32c04bbe4641e6ac95c0",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-032.gz.part001",
+          "size": 159553284,
+          "sha256": "8a427e68f2eedf224ad37f19bba6fcff1d040f7a6d7aff844c207b59bed3be10",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-032.gz.part001"
+        }
+      ],
+      "packed_bytes": 159553284,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:00.672378+00:00"
+    },
+    {
+      "index": 33,
+      "path": "audio-driven-v5/experiments/p2_train50h_semantic_plan_a_20261027/prepared/inputs.jsonl",
+      "size": 1145780107,
+      "mtime_ns": 1793110169554830382,
+      "mode": 33188,
+      "sha256": "bbf80ef1097faf4b13863b7b2e0a36c84b5ef553b256e1053feeee3d7891c06a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-033.gz.part001",
+          "size": 90027165,
+          "sha256": "862711544950b21d1ff03a72099f5f3d6c3eb5f3169b997f342db37e8f145676",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-033.gz.part001"
+        }
+      ],
+      "packed_bytes": 90027165,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:52.887503+00:00"
+    },
+    {
+      "index": 34,
+      "path": "audio-driven-v5/experiments/p2_train50h_postprocessed_reselected_20261027/integrated_labels.jsonl",
+      "size": 1134452775,
+      "mtime_ns": 1793060038868725651,
+      "mode": 33188,
+      "sha256": "42c0026ee06911527cdbc88c07c8e9850cbe25d0cb703f658dcb233cbea5dc53",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-034.gz.part001",
+          "size": 87248370,
+          "sha256": "3380fb0c581b33692802aeea91858b24660b0eab11a72ca5529d7d2019cfc2a0",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-034.gz.part001"
+        }
+      ],
+      "packed_bytes": 87248370,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:56.876397+00:00"
+    },
+    {
+      "index": 35,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/final/rejected/train.jsonl",
+      "size": 1075066562,
+      "mtime_ns": 1793891184244822666,
+      "mode": 33188,
+      "sha256": "5d8ecc2decb824aa3c26e01f07408f6f568776f351892b7facea231db85721cf",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-035.gz.part001",
+          "size": 131385909,
+          "sha256": "2117d19aa2609d279848e1b63610c88c51ca2615345d606a31e66144715e3f91",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-035.gz.part001"
+        }
+      ],
+      "packed_bytes": 131385909,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:13:59.786749+00:00"
+    },
+    {
+      "index": 36,
+      "path": "audio-driven-v5/experiments/p2_train50h_backchannel_face_20261026/integrated_labels.jsonl",
+      "size": 1063450209,
+      "mtime_ns": 1792995210410521139,
+      "mode": 33188,
+      "sha256": "560d4933676bbfcc72f5082ffdd58fbc1c836e2b2e30b328aff5d95577eae816",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-036.gz.part001",
+          "size": 75991675,
+          "sha256": "71faa9ac446c783920d5f898b86484bfe4c76860152b92f680d1fc63cd47d752",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-036.gz.part001"
+        }
+      ],
+      "packed_bytes": 75991675,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:03.835870+00:00"
+    },
+    {
+      "index": 37,
+      "path": "audio-driven-v5/experiments/p2_full_open_description_times_20261027/unassigned_visual_全部原文类型.csv",
+      "size": 881944965,
+      "mtime_ns": 1793065003997618143,
+      "mode": 33188,
+      "sha256": "5e3477f28ebfd7ddc3b79060887bc077587e61527b380c373a1d3421ccfd1aa2",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-037.gz.part001",
+          "size": 209597887,
+          "sha256": "2c1723197bd02ff7a37291fb99fd243472074901936ca3b0f3d5c95a7cabdf09",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-037.gz.part001"
+        }
+      ],
+      "packed_bytes": 209597887,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:37.913751+00:00"
+    },
+    {
+      "index": 38,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_v3_20261105/tables/coverage.jsonl",
+      "size": 790649913,
+      "mtime_ns": 1793862944698365625,
+      "mode": 33188,
+      "sha256": "c3560b49528e93a431394ebfe2bf3ee97eba999a00cc99172b817dc46c1f3ea8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-038.gz.part001",
+          "size": 128543731,
+          "sha256": "2acb7c26ee83daa4b6a0e3bb09ea3d34b7e57e0558393b4024e1e6e6eb82031a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-038.gz.part001"
+        }
+      ],
+      "packed_bytes": 128543731,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:18.267204+00:00"
+    },
+    {
+      "index": 39,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_primary_audio_review.jsonl",
+      "size": 781948448,
+      "mtime_ns": 1792746925810281231,
+      "mode": 33188,
+      "sha256": "badbdd342d01cc9bae9c01ea8ed38a868e1557d7d793f838aa2d9066668c3404",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-039.gz.part001",
+          "size": 96464411,
+          "sha256": "105b19cf30fb527ead230af3224862eac75e6289dd67b181e8e3d403e4900f8c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-039.gz.part001"
+        }
+      ],
+      "packed_bytes": 96464411,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:26.893978+00:00"
+    },
+    {
+      "index": 40,
+      "path": "audio-driven-v5/experiments/listen_backchannel_face_stats_20261026/samples.csv",
+      "size": 749383698,
+      "mtime_ns": 1792993159465782272,
+      "mode": 33188,
+      "sha256": "83cd504274b432d64ab46ee9dfda8f5fa186f352eae2bce9ec035b535eeec3f7",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-040.gz.part001",
+          "size": 201857381,
+          "sha256": "ebbcc1471f93f89cc30c7b69d4dcd4e4085a98eb20e3f82fe1663a341c3ccb6a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-040.gz.part001"
+        }
+      ],
+      "packed_bytes": 201857381,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:39.653371+00:00"
+    },
+    {
+      "index": 41,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_j_visual_quality_v1_20261030/node17/decisions.jsonl",
+      "size": 707197820,
+      "mtime_ns": 1793442146530876807,
+      "mode": 33188,
+      "sha256": "c6cda7c452b124c8798701822ba9e444e44758c97f1d2c76906b1edd43b3374e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-041.gz.part001",
+          "size": 83037476,
+          "sha256": "33df525fd9314d6f8c75f505c43e4b2695810b90e23c8a0c74084bee494d8af6",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-041.gz.part001"
+        }
+      ],
+      "packed_bytes": 83037476,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:17.976500+00:00"
+    },
+    {
+      "index": 42,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_qc4_full/manifests/train_repair_reserve_primary.jsonl",
+      "size": 701011997,
+      "mtime_ns": 1792725406322381552,
+      "mode": 33188,
+      "sha256": "419ed1b60fcfdb03d97eeb99f27672135ac13f8e7fd066a8e5000a521a1e1280",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-042.gz.part001",
+          "size": 36779047,
+          "sha256": "6a4495045c341acff46fc84f80435624a5de9f5dcc44dc4d4c5572913e3b82a1",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-042.gz.part001"
+        }
+      ],
+      "packed_bytes": 36779047,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:16.025376+00:00"
+    },
+    {
+      "index": 43,
+      "path": "audio-driven-v5/experiments/p2_features_full_crop384_20261025/manifests/observations.json",
+      "size": 699742720,
+      "mtime_ns": 1792992007909374412,
+      "mode": 33188,
+      "sha256": "ad8f61cefcbb796d7f3c090d36f552bed43006551c11c7fb8a60f793ec735c3b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-043.gz.part001",
+          "size": 82427911,
+          "sha256": "722742fa04a83746160f05b30b07fbd2bcb8dcbbf1533c209290800abbb16e83",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-043.gz.part001"
+        }
+      ],
+      "packed_bytes": 82427911,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:23.831108+00:00"
+    },
+    {
+      "index": 44,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/selection.json",
+      "size": 615009540,
+      "mtime_ns": 1793072815246289240,
+      "mode": 33152,
+      "sha256": "2d1734688ff237cf5c73960b202970b66bb732e56844770ac20fbb2b35426142",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-044.gz.part001",
+          "size": 88425164,
+          "sha256": "0fde34053bc95d25ff26064f86964c5a438ae6be46ed4e0acfd1faa00a9771bc",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-044.gz.part001"
+        }
+      ],
+      "packed_bytes": 88425164,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:26.856780+00:00"
+    },
+    {
+      "index": 45,
+      "path": "audio-driven-v5/experiments/listen_j_labels_clean_20261105/coverage.jsonl",
+      "size": 607829165,
+      "mtime_ns": 1793849202958092278,
+      "mode": 33188,
+      "sha256": "d0dac7a7016374e46d71b80d1357eb04e173f24355ddbb22cae6035b86399f5c",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-045.gz.part001",
+          "size": 86553776,
+          "sha256": "7aba572fa293047d63748f49fbb141ffb9217b847ab735edfe0807bbf01e47b7",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-045.gz.part001"
+        }
+      ],
+      "packed_bytes": 86553776,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:23.236816+00:00"
+    },
+    {
+      "index": 46,
+      "path": "audio-driven-v5/experiments/listen_j_labels_upright_20261105/coverage.jsonl",
+      "size": 607692582,
+      "mtime_ns": 1793855755332701405,
+      "mode": 33188,
+      "sha256": "0965a7fbd40e83145151265c082898afb523a4507544f3aa682ac77452b919e0",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-046.gz.part001",
+          "size": 86516681,
+          "sha256": "e2c3df566928f1e4eaa7f30f78b61ebf610c32751899714a10a806727c846894",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-046.gz.part001"
+        }
+      ],
+      "packed_bytes": 86516681,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:22.600485+00:00"
+    },
+    {
+      "index": 47,
+      "path": "audio-driven-v5/experiments/listen_j_voiced_recovery_20261102/candidates/train.jsonl",
+      "size": 596083301,
+      "mtime_ns": 1793581198178711418,
+      "mode": 33188,
+      "sha256": "9db47ce5c1be3248bf4f8aa3cf75d09508ab37556ce06e857837b798ed552838",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-047.gz.part001",
+          "size": 96064340,
+          "sha256": "0582afa14034ad1674615e88490978467bcc21a48864df6df497fb8e63ef4743",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-047.gz.part001"
+        }
+      ],
+      "packed_bytes": 96064340,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:29.207992+00:00"
+    },
+    {
+      "index": 48,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/selection.json",
+      "size": 582427008,
+      "mtime_ns": 1793070680407913827,
+      "mode": 33152,
+      "sha256": "8de95a70c8c640ac063139af500d9bc9e431b1cbe0ca8c9653df606d73d94208",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-048.gz.part001",
+          "size": 85833829,
+          "sha256": "70e5cbea776b3f7f2072bec398b2c51ea32f0a5ab5ab63918d77ffb36f90af2a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-048.gz.part001"
+        }
+      ],
+      "packed_bytes": 85833829,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:31.802868+00:00"
+    },
+    {
+      "index": 49,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/selection_initial.json",
+      "size": 579794868,
+      "mtime_ns": 1793072010293467469,
+      "mode": 33152,
+      "sha256": "86bdc71d073907c5c4d8c84d00cf4d168c1319dd3d739aa84354fcef01996764",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-049.gz.part001",
+          "size": 81942819,
+          "sha256": "bf0370eac90a97d80078a03f214a42ac8c006247f6a4c8723766a4e1e2360f90",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-049.gz.part001"
+        }
+      ],
+      "packed_bytes": 81942819,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:29.312563+00:00"
+    },
+    {
+      "index": 50,
+      "path": "audio-driven-v5/experiments/listen_j_labels_manifest_20261105/coverage.jsonl",
+      "size": 568986275,
+      "mtime_ns": 1793844684861518110,
+      "mode": 33188,
+      "sha256": "9de926f75044dc6da0b8487a3f5c94883946ca2475a7c3623f86ccab71210089",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-050.gz.part001",
+          "size": 86475860,
+          "sha256": "3f286c46fac7f56def4b4934ba417caba4cc2014d4345a62c467311791a66aae",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-050.gz.part001"
+        }
+      ],
+      "packed_bytes": 86475860,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:32.676776+00:00"
+    },
+    {
+      "index": 51,
+      "path": "audio-driven-v5/experiments/p3_listen_300h/windows.json",
+      "size": 547606950,
+      "mtime_ns": 1792599073499203673,
+      "mode": 33188,
+      "sha256": "7caaec4c7a184da72170cb487f8243f6333fea47034e3cc6f13713d6d28d8b40",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-051.gz.part001",
+          "size": 68559040,
+          "sha256": "487ec8a6aff933d66d9f108c5bda5bd15439caefd4e4b256d4516878b81b22f2",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-051.gz.part001"
+        }
+      ],
+      "packed_bytes": 68559040,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:34.737477+00:00"
+    },
+    {
+      "index": 52,
+      "path": "audio-driven-v5/experiments/p2_train50h_postprocessed_reselected_20261027/eligible_pool.jsonl",
+      "size": 540677925,
+      "mtime_ns": 1793059738802836126,
+      "mode": 33188,
+      "sha256": "2580fc9833bce6d19b72757a727a8cd3434a320fc357ed8a17b7a55080b16a66",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-052.gz.part001",
+          "size": 83787236,
+          "sha256": "fdb2db7bf2963198cd5e8ad1eb1227ef099996c419bc53ced5d1fdb7d3931e4a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-052.gz.part001"
+        }
+      ],
+      "packed_bytes": 83787236,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:38.128937+00:00"
+    },
+    {
+      "index": 53,
+      "path": "audio-driven-v5/experiments/p2_full_open_description_times_20261027/retained_全部原文类型.csv",
+      "size": 536653898,
+      "mtime_ns": 1793064944870839946,
+      "mode": 33188,
+      "sha256": "929a4ee498e02630d65cab051a193b4c86f7e12a98bad1d26d0f8cbb08beb588",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-053.gz.part001",
+          "size": 129802060,
+          "sha256": "922b96830079cdd6747b867cd30a3cee7882c70613b5e1ab5af086e1c2794a28",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-053.gz.part001"
+        }
+      ],
+      "packed_bytes": 129802060,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:42.770656+00:00"
+    },
+    {
+      "index": 54,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v7_full/manifests/train_review_primary.jsonl",
+      "size": 529697895,
+      "mtime_ns": 1792663522003236203,
+      "mode": 33188,
+      "sha256": "6e0f298e47e1f3820ecd5e432cadc9c6c72efd7710de3c029cce473b054e022a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-054.gz.part001",
+          "size": 33835967,
+          "sha256": "f46277ae2108739e89df9d9a3c38197f24fc0ac9eb25ac000940f013f2e57ccb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-054.gz.part001"
+        }
+      ],
+      "packed_bytes": 33835967,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:34.181473+00:00"
+    },
+    {
+      "index": 55,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T225000Z/remaining.jsonl",
+      "size": 525171628,
+      "mtime_ns": 1792795882224126494,
+      "mode": 33188,
+      "sha256": "d556d58e709bb4dbcce6a7768a2549f0d61e186831a800e72c139e6f3e7f2a67",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-055.gz.part001",
+          "size": 17549562,
+          "sha256": "920330a400734e35fbe050779729cc5e99cd0e828589f64d024ee3a172b02c59",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-055.gz.part001"
+        }
+      ],
+      "packed_bytes": 17549562,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:30.620478+00:00"
+    },
+    {
+      "index": 56,
+      "path": "audio-driven-v5/experiments/p2_features_full_crop384_20261025/manifests/targets.json",
+      "size": 507429150,
+      "mtime_ns": 1792992007917374242,
+      "mode": 33188,
+      "sha256": "1a81704a78a74911003c1303f719fce4369d27abdec8e5153178f7be929d354d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-056.gz.part001",
+          "size": 78506557,
+          "sha256": "033c8d516dc175ae05ece804770288a6ddc5f62b9fdc7bb69a2a6405db32dd94",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-056.gz.part001"
+        }
+      ],
+      "packed_bytes": 78506557,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:37.876410+00:00"
+    },
+    {
+      "index": 57,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_j_visual_quality_v1_20261030/node8/decisions.jsonl",
+      "size": 507220088,
+      "mtime_ns": 1793422409532970904,
+      "mode": 33188,
+      "sha256": "9485719c94a5978b682c4e9e284c9108e12985c0dec15ecbe55dbb1c768a03f1",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-057.gz.part001",
+          "size": 60179601,
+          "sha256": "6122a8212c8d51b7a5df22e376bf7b39da00389476a31a4ad8c1b4666724c519",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-057.gz.part001"
+        }
+      ],
+      "packed_bytes": 60179601,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:38.430179+00:00"
+    },
+    {
+      "index": 58,
+      "path": "audio-driven-v5/experiments/listen_j_labels_manifest_20261105_partial_thread16/labels.jsonl",
+      "size": 458707850,
+      "mtime_ns": 1793843965284597873,
+      "mode": 33188,
+      "sha256": "3d3e447d2730310a4d5d6d75f906c40fbcd80a42cc6d914e8af18b0c8b628297",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-058.gz.part001",
+          "size": 48649999,
+          "sha256": "4a6c69e3f71dff51f4e7ff4dcd423c7524226359dfca49f0c680450a36613512",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-058.gz.part001"
+        }
+      ],
+      "packed_bytes": 48649999,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:37.000831+00:00"
+    },
+    {
+      "index": 59,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_primary_audio_reject.jsonl",
+      "size": 458583295,
+      "mtime_ns": 1792746925810281214,
+      "mode": 33188,
+      "sha256": "569c2da9758e8dc406c524d6ca3545c0fb17733ed9cc3a6d4c416cf87d2c80d7",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-059.gz.part001",
+          "size": 58560949,
+          "sha256": "0d73402cee0a66ee91c49b9e7cc3a907e59f27fe13f4a6258528324dba3246fb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-059.gz.part001"
+        }
+      ],
+      "packed_bytes": 58560949,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:41.815790+00:00"
+    },
+    {
+      "index": 60,
+      "path": "audio-driven-v5/experiments/p3_listen_local_full_20261023/export_benchmark/manifests/train_primary_keep_candidate.jsonl",
+      "size": 453615825,
+      "mtime_ns": 1792762364662793278,
+      "mode": 33188,
+      "sha256": "23872d5313a0c63186a15d307220bb1307a7b68b4bec7eea8ff2b32a9e1a592c",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-060.gz.part001",
+          "size": 52825814,
+          "sha256": "2605f15267730b85873ed4cd899dc6986a49d3cc49aee39f53400f72445b3937",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-060.gz.part001"
+        }
+      ],
+      "packed_bytes": 52825814,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:41.315983+00:00"
+    },
+    {
+      "index": 61,
+      "path": "audio-driven-v5/experiments/listen_richness_full_j_20261031/tables/sample_stats.csv",
+      "size": 414122304,
+      "mtime_ns": 1793467474448270148,
+      "mode": 33188,
+      "sha256": "ef5d4315c92e201f09f47a9a4c2d2a8f8436ba9515fa59afc33d3d8f9fe9aff5",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-061.gz.part001",
+          "size": 64832737,
+          "sha256": "744ced70556b3e28fc3de46a73c1659aabcdf4359d29922f839cba7eddda360c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-061.gz.part001"
+        }
+      ],
+      "packed_bytes": 64832737,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:42.675804+00:00"
+    },
+    {
+      "index": 62,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_v3_20261105/tables/sample_stats.csv",
+      "size": 399645875,
+      "mtime_ns": 1793862924614780209,
+      "mode": 33188,
+      "sha256": "647b0d0043592a8329360b6508ec00e581086753fd40c4e9dd02dabae1d96cdb",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-062.gz.part001",
+          "size": 61080493,
+          "sha256": "289fe17189de2141aff91ca155eedf2a469bde132daa7f93dfe3fce8c9aab3e0",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-062.gz.part001"
+        }
+      ],
+      "packed_bytes": 61080493,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:43.920384+00:00"
+    },
+    {
+      "index": 63,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/voiced_source/train.jsonl",
+      "size": 398633460,
+      "mtime_ns": 1793889530839521857,
+      "mode": 33188,
+      "sha256": "3d79d37d03a98e2a3938f6a1044813d6b74f23b24c77c7a111cefe3facb1d309",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-063.gz.part001",
+          "size": 52227453,
+          "sha256": "155f90ece6dedaee8a9bd29f8445654dce6845536071a5d588a923221a4a03fb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-063.gz.part001"
+        }
+      ],
+      "packed_bytes": 52227453,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:42.010446+00:00"
+    },
+    {
+      "index": 64,
+      "path": "audio-driven-v5/experiments/listen_j_voiced_recovery_20261102/filtered/train.jsonl",
+      "size": 389009160,
+      "mtime_ns": 1793583336389778552,
+      "mode": 33188,
+      "sha256": "b7a6da9a9b742e008bfeb79049e08cc006cccf06bb4d92a0a4e6999b14e232fa",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-064.gz.part001",
+          "size": 62916212,
+          "sha256": "b6ded8025e23a41138c6a3883ded61ab03a1ec17cc98951b41b47e2ee3ff2759",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-064.gz.part001"
+        }
+      ],
+      "packed_bytes": 62916212,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:42.781838+00:00"
+    },
+    {
+      "index": 65,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v7_full/manifests/train_keep_primary.jsonl",
+      "size": 369859870,
+      "mtime_ns": 1792663522003236203,
+      "mode": 33188,
+      "sha256": "7663adadcfe51ec74b832c68a9a6f4657754dc4bd7ea4ff996d3c052bdabee9a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-065.gz.part001",
+          "size": 23982792,
+          "sha256": "a620eb3c91734da322bf913213f9b2d44a7c9f1cb3f233698fda22e0a5d259e9",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-065.gz.part001"
+        }
+      ],
+      "packed_bytes": 23982792,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:41.510719+00:00"
+    },
+    {
+      "index": 66,
+      "path": "audio-driven-v5/experiments/p2_j_train_dev500h_aux_reuse_audit_20261105/reuse_map.jsonl",
+      "size": 362674862,
+      "mtime_ns": 1793878326683496940,
+      "mode": 33188,
+      "sha256": "54c7d68082142d6239b17a3ebdaf7c6b44f30e733f1083fddbb0415ef894e84c",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-066.gz.part001",
+          "size": 91040053,
+          "sha256": "1843830593966ea7d2efe4423122ab1b7b1d531cc93b947ae84069b9412a11eb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-066.gz.part001"
+        }
+      ],
+      "packed_bytes": 91040053,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:48.795893+00:00"
+    },
+    {
+      "index": 67,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/dataset.jsonl",
+      "size": 350887141,
+      "mtime_ns": 1793072801778550602,
+      "mode": 33188,
+      "sha256": "1a7f4e4fa3d14bd986f98edc96e4e22b10c23896571670847dc4c3afe6501b57",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-067.gz.part001",
+          "size": 93592876,
+          "sha256": "70823559a3b0a7b39662166b2f21db4c9f090ccc164e4a5fc9e69032efc41b11",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-067.gz.part001"
+        }
+      ],
+      "packed_bytes": 93592876,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:48.422650+00:00"
+    },
+    {
+      "index": 68,
+      "path": "audio-driven-v5/experiments/p3_listen_v8_recovery_20261023/manifests/train_primary_identity_only_pending_review.jsonl",
+      "size": 350609146,
+      "mtime_ns": 1792726219138473317,
+      "mode": 33188,
+      "sha256": "972221692b3c356a72378cca4e12019c8b8bfd9a19c6ff681fa24e3fc94b6e13",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-068.gz.part001",
+          "size": 19034015,
+          "sha256": "15254af630785fd9266eb2d37e2fa455aeefddcb56f009bc92071da8a802e7ea",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-068.gz.part001"
+        }
+      ],
+      "packed_bytes": 19034015,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:43.583996+00:00"
+    },
+    {
+      "index": 69,
+      "path": "audio-driven-v5/experiments/listen_j_clean_regen_20261105/orientation_all_clips.jsonl",
+      "size": 337249536,
+      "mtime_ns": 1793848002282418286,
+      "mode": 33188,
+      "sha256": "a3f0f9b3e3767e7c85e56b8cc88caabe33474cdac2f9e168ff02996da7db7060",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-069.gz.part001",
+          "size": 43058524,
+          "sha256": "f6a83c55bda1f5c40bd60162af9a898c37971e7861ff76ed17e580bef37a8a60",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-069.gz.part001"
+        }
+      ],
+      "packed_bytes": 43058524,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:46.009496+00:00"
+    },
+    {
+      "index": 70,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/dataset.jsonl",
+      "size": 318785787,
+      "mtime_ns": 1793071550010371855,
+      "mode": 33188,
+      "sha256": "b95e3d6b3714fc75cf9fa6286da4f11c084be463727439fec95eb88ed1ba081e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-070.gz.part001",
+          "size": 85329425,
+          "sha256": "c264ab48c661e06621a03132f00fa3301d573400aed4f4baa49581b2ad350c6b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-070.gz.part001"
+        }
+      ],
+      "packed_bytes": 85329425,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:49.110608+00:00"
+    },
+    {
+      "index": 71,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_qc4_full/manifests/train_boundary_review_primary.jsonl",
+      "size": 295227747,
+      "mtime_ns": 1792725406314381728,
+      "mode": 33188,
+      "sha256": "05f0e118c028ea53415caa1cb56f3bcf63e80f11430b38ba411a3656eab4e21d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-071.gz.part001",
+          "size": 16690315,
+          "sha256": "c5594934efa1589ec66b4fe794488caf31e104a7307cca8931126b87e0654bd5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-071.gz.part001"
+        }
+      ],
+      "packed_bytes": 16690315,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:42.920663+00:00"
+    },
+    {
+      "index": 72,
+      "path": "audio-driven-v5/experiments/p2_j_train_dev500h_vae_reuse_audit_20261105/cache_plan.jsonl",
+      "size": 290072417,
+      "mtime_ns": 1793876612819422490,
+      "mode": 33188,
+      "sha256": "ea963f1238e3d895448ba34064defa30985a640485d9d21c3f15decd90262fd7",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-072.gz.part001",
+          "size": 66672209,
+          "sha256": "5d7134efeab5de983dfcc00d323549cb5577bf76e2e9e7f5a07027db1b9c9ee6",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-072.gz.part001"
+        }
+      ],
+      "packed_bytes": 66672209,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:49.212844+00:00"
+    },
+    {
+      "index": 73,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g1.jsonl",
+      "size": 258066748,
+      "mtime_ns": 1792951435252716989,
+      "mode": 33188,
+      "sha256": "5826eede7bb633daaed511175ccf34669dbe4059899e69091050bb31d25b835d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-073.gz.part001",
+          "size": 25618600,
+          "sha256": "419beb65f3316c6193acccdd9c7875a06c5b80af59b78f3f63ea9986aa99ba94",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-073.gz.part001"
+        }
+      ],
+      "packed_bytes": 25618600,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:46.696353+00:00"
+    },
+    {
+      "index": 74,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g0.jsonl",
+      "size": 250964056,
+      "mtime_ns": 1792951435928705069,
+      "mode": 33188,
+      "sha256": "613308447c1739b25983a25b3e91746d2c2233b62086c73a10e503ddc1aaf5c5",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-074.gz.part001",
+          "size": 25041110,
+          "sha256": "4854a891a32b6fd25a2eeddd0de5ff3c66d08cd72fd12cc03acb45ff7c542e45",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-074.gz.part001"
+        }
+      ],
+      "packed_bytes": 25041110,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:47.534427+00:00"
+    },
+    {
+      "index": 75,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g2.jsonl",
+      "size": 241770737,
+      "mtime_ns": 1792951431305997548,
+      "mode": 33188,
+      "sha256": "81b4c6a2ac73e1f3d4969de6fc58f9993e4a949ad0bafc3fb7e9fc3e2f57e12b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-075.gz.part001",
+          "size": 24128217,
+          "sha256": "8f7c3178fc97d53e240a4143e9ecae9f6e03ceed97561e467e573acbc41c7c42",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-075.gz.part001"
+        }
+      ],
+      "packed_bytes": 24128217,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:48.169452+00:00"
+    },
+    {
+      "index": 76,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g3.jsonl",
+      "size": 240595107,
+      "mtime_ns": 1792951462538965332,
+      "mode": 33188,
+      "sha256": "d98b7ae8c8664d6dd3e12050c078d1d03deed44f03d061d611364046dfee9205",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-076.gz.part001",
+          "size": 24035752,
+          "sha256": "272646d4fc5a831d6bd8cffdf2bb0aeff4013d3d0455f8c3dad3c19e9544c8e3",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-076.gz.part001"
+        }
+      ],
+      "packed_bytes": 24035752,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:47.196083+00:00"
+    },
+    {
+      "index": 77,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g6.jsonl",
+      "size": 239322810,
+      "mtime_ns": 1792951418178266729,
+      "mode": 33188,
+      "sha256": "bdf2735728732c8758c69e9a9ed706ddbd05bb506b1830b0ba1c81be5ee07ce8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-077.gz.part001",
+          "size": 23862289,
+          "sha256": "12aba88876f4b7d72a0f38c308cfb0799590de07b936a457c967504034d77a30",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-077.gz.part001"
+        }
+      ],
+      "packed_bytes": 23862289,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:47.257095+00:00"
+    },
+    {
+      "index": 78,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/samples.csv",
+      "size": 238684647,
+      "mtime_ns": 1793072827494051732,
+      "mode": 33188,
+      "sha256": "d046e2d7249185deeccbf4052883a6d101102278fe0257d044a51c52379038a5",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-078.gz.part001",
+          "size": 69023295,
+          "sha256": "238872e6048a9eca573cba2aaa3e7bf7acc2509d630a3bf24980deede15d5bbd",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-078.gz.part001"
+        }
+      ],
+      "packed_bytes": 69023295,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:56.534447+00:00"
+    },
+    {
+      "index": 79,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g3.jsonl",
+      "size": 236082231,
+      "mtime_ns": 1792951419326243193,
+      "mode": 33188,
+      "sha256": "a2a4d685ae5e29afc85f3798a69ad81ecac77db3af876b08508165bb7e0cc563",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-079.gz.part001",
+          "size": 23612266,
+          "sha256": "1a52fc1ca3a7a250301a416f5785f4b6755aa3848b91701c140844b34d9e7a14",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-079.gz.part001"
+        }
+      ],
+      "packed_bytes": 23612266,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:47.592847+00:00"
+    },
+    {
+      "index": 80,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T225000Z/schema_pass.jsonl",
+      "size": 234459320,
+      "mtime_ns": 1792795882220126588,
+      "mode": 33188,
+      "sha256": "6085d8e417beee313a94991d233a45ef9f820a6ff37600f22288518143387dbf",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-080.gz.part001",
+          "size": 30277624,
+          "sha256": "59ca66822757b2a1362fdf0f46fe1db5da96bb8af39a758525d24a288d891dd5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-080.gz.part001"
+        }
+      ],
+      "packed_bytes": 30277624,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:48.681327+00:00"
+    },
+    {
+      "index": 81,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g1.jsonl",
+      "size": 233987919,
+      "mtime_ns": 1792951433743514811,
+      "mode": 33188,
+      "sha256": "61ca7c5accf7cc11c4683afaa81305b120e920130882201266edd90ec1dc8f14",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-081.gz.part001",
+          "size": 23382922,
+          "sha256": "3b6b194bdb8f14722b8fd1d095d1d12d72fcde54fb88198f92f323ad8e3da60c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-081.gz.part001"
+        }
+      ],
+      "packed_bytes": 23382922,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:48.155744+00:00"
+    },
+    {
+      "index": 82,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g4.jsonl",
+      "size": 233096473,
+      "mtime_ns": 1792951424922128458,
+      "mode": 33188,
+      "sha256": "d9ce28fbde042d9d8f5e91d358ea9b89e60036d290517e525d9259a24b1eb827",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-082.gz.part001",
+          "size": 23357637,
+          "sha256": "98eae7eac8e05dc52902fc46be6709a0f6feea6ae3c59ccd76d14e413147dca2",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-082.gz.part001"
+        }
+      ],
+      "packed_bytes": 23357637,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:49.145344+00:00"
+    },
+    {
+      "index": 83,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g6.jsonl",
+      "size": 231809109,
+      "mtime_ns": 1792951451824424785,
+      "mode": 33188,
+      "sha256": "ff582f21ffa985f1b7b54ef11a7ed786a2cf46f1aec40c544982408fe8b0df9d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-083.gz.part001",
+          "size": 23074178,
+          "sha256": "a68dec268d0277bc3042c2980fba3cf9766b499a3880cb652d69ad9e71456936",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-083.gz.part001"
+        }
+      ],
+      "packed_bytes": 23074178,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:50.069680+00:00"
+    },
+    {
+      "index": 84,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g4.jsonl",
+      "size": 231709324,
+      "mtime_ns": 1792951408088004249,
+      "mode": 33188,
+      "sha256": "1fa024a618ad939a68c58aa4a6cb393ba02a2fa4d15a57a03f9ea87e6445da50",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-084.gz.part001",
+          "size": 23164188,
+          "sha256": "264baeae0892108c63273a2892f49a86dafae7c2679343189e83b5b235341bab",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-084.gz.part001"
+        }
+      ],
+      "packed_bytes": 23164188,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:51.250294+00:00"
+    },
+    {
+      "index": 85,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T223555Z/schema_pass.jsonl",
+      "size": 229283364,
+      "mtime_ns": 1792794987621283283,
+      "mode": 33188,
+      "sha256": "f9da136c39ddc40d3ae1f46ad98dbbe1f0d40ce6a71da6c00f8a649994c02cbd",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-085.gz.part001",
+          "size": 29598211,
+          "sha256": "cce04029f16378ab1ab987662dbe9a60d1e9e6f5e3412d6fe99e550c4287a8f3",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-085.gz.part001"
+        }
+      ],
+      "packed_bytes": 29598211,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:51.825880+00:00"
+    },
+    {
+      "index": 86,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/samples.csv",
+      "size": 224673819,
+      "mtime_ns": 1793071623772883992,
+      "mode": 33188,
+      "sha256": "92dbaabc9eb43d878c2adb637eb5b14d2829c3ec926af9dce83065fcb311f812",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-086.gz.part001",
+          "size": 66610804,
+          "sha256": "c5c805cb1ff5b913cd772b7c0823a8ba5729baab0d5266fb312fc2b9ae8446d5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-086.gz.part001"
+        }
+      ],
+      "packed_bytes": 66610804,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:59.814381+00:00"
+    },
+    {
+      "index": 87,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g5.jsonl",
+      "size": 223942185,
+      "mtime_ns": 1792951408849182519,
+      "mode": 33188,
+      "sha256": "6a9b70b94aff65f5b771113cbf8f5dbbc91f8b15d6267a2ebfbe219ca447837e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-087.gz.part001",
+          "size": 22378514,
+          "sha256": "25985ecd9f14e5d310aa5f98ff0510d4ac4e24b1c255b012f0ab93e5ee73bc4b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-087.gz.part001"
+        }
+      ],
+      "packed_bytes": 22378514,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:52.347686+00:00"
+    },
+    {
+      "index": 88,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/voiced/filtered/train.jsonl",
+      "size": 222623221,
+      "mtime_ns": 1793890836596915325,
+      "mode": 33188,
+      "sha256": "93900849aea495027ae912e3a5f228bfebcd4e36c6db1582a1dd25fd857f9a8a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-088.gz.part001",
+          "size": 30288893,
+          "sha256": "0abd9a36d3df40a82db859225449454e2aafa3bf23085732994e7fb318ec2784",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-088.gz.part001"
+        }
+      ],
+      "packed_bytes": 30288893,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:54.577253+00:00"
+    },
+    {
+      "index": 89,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g5.jsonl",
+      "size": 219487092,
+      "mtime_ns": 1792951481754598577,
+      "mode": 33188,
+      "sha256": "bf9b2bcde7ce2ef2d4cd32a7517a2a9e2679d9846b23f6f49b57a390580708a4",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-089.gz.part001",
+          "size": 21895387,
+          "sha256": "990025624126dcd3f48945d7ead5f85c1b5636734f812aa57e8ac6115c521b2c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-089.gz.part001"
+        }
+      ],
+      "packed_bytes": 21895387,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:52.768930+00:00"
+    },
+    {
+      "index": 90,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g4.jsonl",
+      "size": 218783137,
+      "mtime_ns": 1792951421872952898,
+      "mode": 33188,
+      "sha256": "1177ad1bb715bf47a85c5f49ec05374d41b73ad09d478aed52203cc6ff48cc11",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-090.gz.part001",
+          "size": 21720882,
+          "sha256": "37aff2479aec5dcc8d6f32877b788c2530694b434f4093ca7e0254391abf1dde",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-090.gz.part001"
+        }
+      ],
+      "packed_bytes": 21720882,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:52.503874+00:00"
+    },
+    {
+      "index": 91,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T221525Z/schema_pass.jsonl",
+      "size": 217939984,
+      "mtime_ns": 1792793755754541922,
+      "mode": 33188,
+      "sha256": "6788ae293bb3dfa0d54e269172ee867cf0220c62dbc18ae64b1f8ca5ad55e8bb",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-091.gz.part001",
+          "size": 28105162,
+          "sha256": "f2f4705fc6785d7786d438dade95d50177b5a6c11b1e80b37a7b43b1de828f24",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-091.gz.part001"
+        }
+      ],
+      "packed_bytes": 28105162,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:52.872877+00:00"
+    },
+    {
+      "index": 92,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g5.jsonl",
+      "size": 211474347,
+      "mtime_ns": 1792951452465563497,
+      "mode": 33188,
+      "sha256": "1237a9cd25c8d985d7ae8cd2b55e137b4b37787ee2d44468cc5d2d89f599b387",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-092.gz.part001",
+          "size": 21093982,
+          "sha256": "c1c50e35a5f22cc8e1c9cd98b8d3711ca1780d9bb0684810c33d45bfbb954b01",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-092.gz.part001"
+        }
+      ],
+      "packed_bytes": 21093982,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:53.092778+00:00"
+    },
+    {
+      "index": 93,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T215456Z/schema_pass.jsonl",
+      "size": 207663497,
+      "mtime_ns": 1792792525655543251,
+      "mode": 33188,
+      "sha256": "e9d73488b7b4965b51b83cf949f8a554b048ae23cd6c3719737ddf847d27559f",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-093.gz.part001",
+          "size": 26757820,
+          "sha256": "8c25582032cdb53b283ccbf611ce8db130aabdee70d779dac5cd591ebbe50b2d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-093.gz.part001"
+        }
+      ],
+      "packed_bytes": 26757820,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:53.594488+00:00"
+    },
+    {
+      "index": 94,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g0.jsonl",
+      "size": 206879789,
+      "mtime_ns": 1792951474441112482,
+      "mode": 33188,
+      "sha256": "6a4d9bb27f7f6181b0d9b9b3d0cfcfefe135e85d9d1c000d26ee19035de0a63d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-094.gz.part001",
+          "size": 20628774,
+          "sha256": "c2b446ca115fc7b46a5d85f94542f28fbc83b3421eb0a4304a14446356b3b833",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-094.gz.part001"
+        }
+      ],
+      "packed_bytes": 20628774,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:54.068158+00:00"
+    },
+    {
+      "index": 95,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g7.jsonl",
+      "size": 205111628,
+      "mtime_ns": 1792951421463749091,
+      "mode": 33188,
+      "sha256": "d90ae289e5fa8110de08ee677e53829be397f4dc584c491659506bfaee93fdde",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-095.gz.part001",
+          "size": 20376415,
+          "sha256": "20c634c29683b426e7b6b4d81e222bd123fb804005a5f0a907360d36794b36bf",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-095.gz.part001"
+        }
+      ],
+      "packed_bytes": 20376415,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:53.137555+00:00"
+    },
+    {
+      "index": 96,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g0.jsonl",
+      "size": 201879966,
+      "mtime_ns": 1792951438955415368,
+      "mode": 33188,
+      "sha256": "68afc34de2d05902eab23d29bfbe2a4c95fd9ee2e8c50815f9a264391780f546",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-096.gz.part001",
+          "size": 20174265,
+          "sha256": "198ece68f737f467d3f28e97d632f652a16c3be35063e22811734e7cd0364141",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-096.gz.part001"
+        }
+      ],
+      "packed_bytes": 20174265,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:54.394663+00:00"
+    },
+    {
+      "index": 97,
+      "path": "audio-driven-v5/experiments/p3_listen_v8_recovery_20261023/manifests/train_primary_boundary_candidate_pending_review.jsonl",
+      "size": 197625367,
+      "mtime_ns": 1792726219142473238,
+      "mode": 33188,
+      "sha256": "1e8eff7199ec307dcc49bf61627e5bc697d4965548209dece9f7dd9d2a82f136",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-097.gz.part001",
+          "size": 10916080,
+          "sha256": "a5a8e9241e12c521ee13af4a7f2c3128aadc58f1dfca8edfa994ac3008fa5d10",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-097.gz.part001"
+        }
+      ],
+      "packed_bytes": 10916080,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:52.555503+00:00"
+    },
+    {
+      "index": 98,
+      "path": "audio-driven-v5/experiments/p2_full_backchannel_report_20261027/samples.csv",
+      "size": 197565364,
+      "mtime_ns": 1793063516580351986,
+      "mode": 33188,
+      "sha256": "903966c32d93308d5554f29b3ea218f6c80dd1c1330b6820c81c3cf5a2801265",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-098.gz.part001",
+          "size": 28767174,
+          "sha256": "045633d416d397688f42007ea930a9ee9090570f15c55b65a6dc0e8f283d96c4",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-098.gz.part001"
+        }
+      ],
+      "packed_bytes": 28767174,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:01.467393+00:00"
+    },
+    {
+      "index": 99,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T213429Z/schema_pass.jsonl",
+      "size": 196854380,
+      "mtime_ns": 1792791296876514394,
+      "mode": 33188,
+      "sha256": "b0b2a0f967ab0163cc1faeb1b7349f98d040d683e259b85c35bf01c953caca30",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-099.gz.part001",
+          "size": 25331036,
+          "sha256": "d937c37c1c10c0da171103e49e0194de8b8b0515be28e70702661024543fb01d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-099.gz.part001"
+        }
+      ],
+      "packed_bytes": 25331036,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:56.549386+00:00"
+    },
+    {
+      "index": 100,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g3.jsonl",
+      "size": 194635471,
+      "mtime_ns": 1792951447644498490,
+      "mode": 33188,
+      "sha256": "f2ea82720913be8e4fd72a8ebcb46469baf9510537b9a2251c5b8c8732da0657",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-100.gz.part001",
+          "size": 19462999,
+          "sha256": "a6e22d3638d7adf9e7438b99b255abc2056270cc3b8b2849e3e8f5bb660806a3",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-100.gz.part001"
+        }
+      ],
+      "packed_bytes": 19462999,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:56.342550+00:00"
+    },
+    {
+      "index": 101,
+      "path": "audio-driven-v5/experiments/p2_preflight_fix_20261026/production/preflight/d5eeea29e74391ffe26a97299fff0e2d4892442be4833e35c72a023916830d6e.json",
+      "size": 192601639,
+      "mtime_ns": 1793010757306351813,
+      "mode": 33152,
+      "sha256": "7cb86a9b4cc1a7e1f85a635281ba49506a83c47b75417764624689b67ff6139e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-101.gz.part001",
+          "size": 22757101,
+          "sha256": "a3cb18219f82a4c23c2a1337275a83daa2b6a90d23d0f875d1410f0e5488aee5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-101.gz.part001"
+        }
+      ],
+      "packed_bytes": 22757101,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:59.629304+00:00"
+    },
+    {
+      "index": 102,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g1.jsonl",
+      "size": 192335951,
+      "mtime_ns": 1792951431773987950,
+      "mode": 33188,
+      "sha256": "1e4cb71ef15498b9dedf9ff314ea54c777201e3816adbd0a26992e2a7ca4971f",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-102.gz.part001",
+          "size": 19264247,
+          "sha256": "da264152f9ce18c2e9ff4b4e8bbc7d66087d588a2bed44e68064917a0661c0dc",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-102.gz.part001"
+        }
+      ],
+      "packed_bytes": 19264247,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:58.791298+00:00"
+    },
+    {
+      "index": 103,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node8-g7.jsonl",
+      "size": 191536072,
+      "mtime_ns": 1792951460981500103,
+      "mode": 33188,
+      "sha256": "9790b63ad76943f42a8eac7a3a7ad301dad7b841e1adada2df3a483e3e60c914",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-103.gz.part001",
+          "size": 19102757,
+          "sha256": "20997221301b94474e6d602845f1a29bef296f239ef7d5e711519b62b8858cbb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-103.gz.part001"
+        }
+      ],
+      "packed_bytes": 19102757,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:58.990529+00:00"
+    },
+    {
+      "index": 104,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/manifests/observations.json",
+      "size": 191006630,
+      "mtime_ns": 1793070874707994687,
+      "mode": 33152,
+      "sha256": "6c6d3a9e55fc9a182d370b900782c237b65ef233c9adcf56a2f7d30bdf436da7",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-104.gz.part001",
+          "size": 23062626,
+          "sha256": "742c1995ce7e194046b1db3bc23a0a4c47623b2dd91201c2e6b4ec0d6e23f5a1",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-104.gz.part001"
+        }
+      ],
+      "packed_bytes": 23062626,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:59.790458+00:00"
+    },
+    {
+      "index": 105,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node12-g7.jsonl",
+      "size": 190611235,
+      "mtime_ns": 1792951437529869899,
+      "mode": 33188,
+      "sha256": "38c1151ccf562fd334c914242de8375ba8d64536860ccbeef216127d94b924bd",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-105.gz.part001",
+          "size": 18979945,
+          "sha256": "cfb8cd42c44def28591addc47438437783a217755155a1b4471f43f1b22bd9a3",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-105.gz.part001"
+        }
+      ],
+      "packed_bytes": 18979945,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:59.398715+00:00"
+    },
+    {
+      "index": 106,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T211403Z/schema_pass.jsonl",
+      "size": 186332194,
+      "mtime_ns": 1792790069281467922,
+      "mode": 33188,
+      "sha256": "4fe6f682334f91433fba8b15fb0f43ebac0845b609030548c955ec346fe0558e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-106.gz.part001",
+          "size": 23943324,
+          "sha256": "7c97bf0aab8bd23e5dae218efa8fba589b9c4550d066410cbd449b1c07f904ed",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-106.gz.part001"
+        }
+      ],
+      "packed_bytes": 23943324,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:14:59.569892+00:00"
+    },
+    {
+      "index": 107,
+      "path": "audio-driven-v5/experiments/listen_j_voiced_recovery_20261102/filtered/rejected/train.jsonl",
+      "size": 185706657,
+      "mtime_ns": 1793583336341779671,
+      "mode": 33188,
+      "sha256": "c578b20977b63d4599a3dca69eb52d7218a44bdce2887d60b9afb935af1f3633",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-107.gz.part001",
+          "size": 29554092,
+          "sha256": "517f8e67576a87c411a83fbf5f2829dcd23bf11f6b8a65a0925d4fb1050710ac",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-107.gz.part001"
+        }
+      ],
+      "packed_bytes": 29554092,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:00.781571+00:00"
+    },
+    {
+      "index": 108,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T225000Z/supported_both_classes.jsonl",
+      "size": 178144231,
+      "mtime_ns": 1792795882220126588,
+      "mode": 33188,
+      "sha256": "8753c2b340c57c498c7f4fcc88e2d1ba22a35bbef930c7c66c278d0515850c33",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-108.gz.part001",
+          "size": 23041241,
+          "sha256": "18f5c3f729c947f4e21d53244292c68ee6e7dacb7ec8c201d41bc9a948f6f603",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-108.gz.part001"
+        }
+      ],
+      "packed_bytes": 23041241,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:00.559685+00:00"
+    },
+    {
+      "index": 109,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g2.jsonl",
+      "size": 177777074,
+      "mtime_ns": 1792951408601186892,
+      "mode": 33188,
+      "sha256": "72720d88a6b71d0e42d9754fb16c582296ecdf6499aec0f8a8865dcaa90343c8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-109.gz.part001",
+          "size": 17822440,
+          "sha256": "8922e158c1c5b47f5e2ed2e8fcb567de0f32c2dfacc0801fd641133be67b9747",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-109.gz.part001"
+        }
+      ],
+      "packed_bytes": 17822440,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:00.396774+00:00"
+    },
+    {
+      "index": 110,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_onset_reserve_audio_review.jsonl",
+      "size": 177573445,
+      "mtime_ns": 1792746925754282374,
+      "mode": 33188,
+      "sha256": "4b9872d9ea675b61c10ebbb8102e9cdcfcb103c5c9165214ac1c0e797e416346",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-110.gz.part001",
+          "size": 23608848,
+          "sha256": "45a4c5102b39bd563060bf44a448db29608e5e94b9218ab3b2788b208ae05a1a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-110.gz.part001"
+        }
+      ],
+      "packed_bytes": 23608848,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:01.464025+00:00"
+    },
+    {
+      "index": 111,
+      "path": "audio-driven-v5/experiments/listen_j_upright_response_sft_20261105/voiced/filtered/rejected/train.jsonl",
+      "size": 176004507,
+      "mtime_ns": 1793890836576915790,
+      "mode": 33188,
+      "sha256": "1ed5a667da5b6d0f4ac9d8a8a2825198f1326935a28e22570754f28a1eac2828",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-111.gz.part001",
+          "size": 23502637,
+          "sha256": "ecd39e483b9078121ec91f3c88abcf67c4fb43b8d2787fd372d2792761dd770a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-111.gz.part001"
+        }
+      ],
+      "packed_bytes": 23502637,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:04.262220+00:00"
+    },
+    {
+      "index": 112,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T205338Z/schema_pass.jsonl",
+      "size": 175646925,
+      "mtime_ns": 1792788843098379706,
+      "mode": 33188,
+      "sha256": "3e6888830fa37b9da66fa83396fc47ee04fc9887004288f15bd067cb33179288",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-112.gz.part001",
+          "size": 22534231,
+          "sha256": "4e624e274686a29bb787bdd8b93b25d7e4fad95917aa2d2447894a96d9f9cf72",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-112.gz.part001"
+        }
+      ],
+      "packed_bytes": 22534231,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:06.484411+00:00"
+    },
+    {
+      "index": 113,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node8-g4.jsonl",
+      "size": 174640078,
+      "mtime_ns": 1792951421730418755,
+      "mode": 33188,
+      "sha256": "a2c90432debbf25b7aedb91bebf3adefe4b146feaf334379cf49b2065026ae76",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-113.gz.part001",
+          "size": 17387081,
+          "sha256": "01f93feefbfbdcbd7c976d2ed700d907bcaedcf9a2da9eb971c34c5854101414",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-113.gz.part001"
+        }
+      ],
+      "packed_bytes": 17387081,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:04.371362+00:00"
+    },
+    {
+      "index": 114,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node17-g7.jsonl",
+      "size": 174546930,
+      "mtime_ns": 1792951437780672415,
+      "mode": 33188,
+      "sha256": "ecabc2fe360f2eb67180aeac1693f67bfcca12c0a4f8aad05ee6d935b92f8f16",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-114.gz.part001",
+          "size": 17351887,
+          "sha256": "eeacaf662ef09cfd8219a89ad0e0ccbf95e5b39de5b9217b3052166cda0fd17c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-114.gz.part001"
+        }
+      ],
+      "packed_bytes": 17351887,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:04.065330+00:00"
+    },
+    {
+      "index": 115,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T223555Z/supported_both_classes.jsonl",
+      "size": 174122694,
+      "mtime_ns": 1792794987629283093,
+      "mode": 33188,
+      "sha256": "0d849081144e68071c8a70ce7b59f531d788fa740dac0b92b168ba4bbbeed823",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-115.gz.part001",
+          "size": 22515433,
+          "sha256": "e0059c3937b7cd214d6d1dc85654e0068938359b6261b7151d622bfc12e08c13",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-115.gz.part001"
+        }
+      ],
+      "packed_bytes": 22515433,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:04.075113+00:00"
+    },
+    {
+      "index": 116,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_train_dev_v3_20261105/selection/sample_list.csv",
+      "size": 173618272,
+      "mtime_ns": 1793868034357681573,
+      "mode": 33188,
+      "sha256": "068fcb5cddd17ff3229318561c428bdfa7097b15dd3a093301c1c0e018aebeec",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-116.gz.part001",
+          "size": 30551390,
+          "sha256": "301161c4b05085789059b0a24aa58f3ee3840bad9938abd26cbf815c13551e4e",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-116.gz.part001"
+        }
+      ],
+      "packed_bytes": 30551390,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:05.006258+00:00"
+    },
+    {
+      "index": 117,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_local_full/manifests/train_primary_audio_review.jsonl",
+      "size": 173048047,
+      "mtime_ns": 1792763359094644896,
+      "mode": 33188,
+      "sha256": "68ebd03da658febb8c6e6c70e51345d45a5bf9a3920c7c01c82cf16ae5d79357",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-117.gz.part001",
+          "size": 22982267,
+          "sha256": "d33e4a2a1d79752cfbfe4bbfd9e78e49cd68a9bf3b196847769ad7eae9bd0a44",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-117.gz.part001"
+        }
+      ],
+      "packed_bytes": 22982267,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:06.474416+00:00"
+    },
+    {
+      "index": 118,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/manifests/observations.json",
+      "size": 172500458,
+      "mtime_ns": 1793072818918217968,
+      "mode": 33152,
+      "sha256": "a51ce935e7e779306c76bbe663db20d3d0707ca9c7b8f326765d8798b9cfc6cf",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-118.gz.part001",
+          "size": 20420591,
+          "sha256": "6ab3b9032ad301e9298382ea23b6f523eced4fe6dd59c1dc08dd181f46ca4d0b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-118.gz.part001"
+        }
+      ],
+      "packed_bytes": 20420591,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:06.881669+00:00"
+    },
+    {
+      "index": 119,
+      "path": "audio-driven-v5/experiments/listen_j_upright_av500h_v3_20261105/selection/sample_list.csv",
+      "size": 171982346,
+      "mtime_ns": 1793863123594618856,
+      "mode": 33188,
+      "sha256": "10ca107055f991168cb34fb086e7285eb2b53d2037484082d38271d9c1c7d3c0",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-119.gz.part001",
+          "size": 30544385,
+          "sha256": "de8bb36a845ca4320497e4a1ff96dd1395135902b1c6fa81e45323b2b08171ea",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-119.gz.part001"
+        }
+      ],
+      "packed_bytes": 30544385,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:08.887762+00:00"
+    },
+    {
+      "index": 120,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_local_full/manifests/test_primary_keep_candidate.jsonl",
+      "size": 169406567,
+      "mtime_ns": 1792763353590757488,
+      "mode": 33188,
+      "sha256": "4eec11a81b8538e3fee6aeffc6d374413e911080aaa59a8b049db7d477551b52",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-120.gz.part001",
+          "size": 19349378,
+          "sha256": "b8a67f93d1e2fc7791a13e841a01b988079dff2e6b5332337b123d47adb1d773",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-120.gz.part001"
+        }
+      ],
+      "packed_bytes": 19349378,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:05.078772+00:00"
+    },
+    {
+      "index": 121,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g2.jsonl",
+      "size": 166440843,
+      "mtime_ns": 1792951449439215338,
+      "mode": 33188,
+      "sha256": "6f5c7cac536453a6e313f66d900d8e51e0ab5005eb010e0f014dcadb68a57d4f",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-121.gz.part001",
+          "size": 16673694,
+          "sha256": "7f9137e084b57fdca06ca7d98555a532c01cfa5edc067cd5d89226df68f7ee4d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-121.gz.part001"
+        }
+      ],
+      "packed_bytes": 16673694,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:05.167547+00:00"
+    },
+    {
+      "index": 122,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T221525Z/supported_both_classes.jsonl",
+      "size": 165632324,
+      "mtime_ns": 1792793755754541922,
+      "mode": 33188,
+      "sha256": "ccaa082ed1a04174f5742a36bd70192835799c4973315949deb8991e6e80435b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-122.gz.part001",
+          "size": 21394522,
+          "sha256": "96b165ca96764e3179bcf81e70308bc9e7ad1aaaf13202194b1e123c7a1ac953",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-122.gz.part001"
+        }
+      ],
+      "packed_bytes": 21394522,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:06.765004+00:00"
+    },
+    {
+      "index": 123,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T203308Z/schema_pass.jsonl",
+      "size": 164634648,
+      "mtime_ns": 1792787618531234517,
+      "mode": 33188,
+      "sha256": "7943a9b8fc70b1ef99453708d8a52ded6343743a122cf296659937e67e97f898",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-123.gz.part001",
+          "size": 21080679,
+          "sha256": "2164be63dd4be7e39c1cf578ea522334d86c918f3bc5163d7f47b47468c6dd61",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-123.gz.part001"
+        }
+      ],
+      "packed_bytes": 21080679,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:07.483318+00:00"
+    },
+    {
+      "index": 124,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node4-g6.jsonl",
+      "size": 160722027,
+      "mtime_ns": 1792951477266684239,
+      "mode": 33188,
+      "sha256": "db7c6489c0c6bd2fc2992329f149236182f91680fc0c1e3bc66a4e1d7ebb3d1d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-124.gz.part001",
+          "size": 16028264,
+          "sha256": "e498408d794d2972a7923bd288fe3576dab9924e5e84ebf32456483d48677691",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-124.gz.part001"
+        }
+      ],
+      "packed_bytes": 16028264,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:09.140320+00:00"
+    },
+    {
+      "index": 125,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_qc4_full/manifests/train_candidate_primary.jsonl",
+      "size": 158013844,
+      "mtime_ns": 1792725406314381728,
+      "mode": 33188,
+      "sha256": "b0a440575ab05dec5bd3d47e6bb25e85ec63603f75e15007a6efbfe65c893526",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-125.gz.part001",
+          "size": 9647710,
+          "sha256": "0f1cac4948dbea1b9a561795d0462ce854b32d28914bb6aa2bdd7d95268e4c43",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-125.gz.part001"
+        }
+      ],
+      "packed_bytes": 9647710,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:07.348344+00:00"
+    },
+    {
+      "index": 126,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T215456Z/supported_both_classes.jsonl",
+      "size": 157821208,
+      "mtime_ns": 1792792525671542874,
+      "mode": 33188,
+      "sha256": "3f9a6a9fb345cf55bbe614255e7e25b212897599f64d6efa58b91268e704d31e",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-126.gz.part001",
+          "size": 20364521,
+          "sha256": "428708a5615793d7479bb0d01e7181e1e7987bf8b19e1888f39f2fe089eca055",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-126.gz.part001"
+        }
+      ],
+      "packed_bytes": 20364521,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:08.672288+00:00"
+    },
+    {
+      "index": 127,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T201246Z/schema_pass.jsonl",
+      "size": 153745437,
+      "mtime_ns": 1792786388492258646,
+      "mode": 33188,
+      "sha256": "b5f2b00051447c16aa33fff48897342a3f22fdb6cc145326d5228f4cc83d79c3",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-127.gz.part001",
+          "size": 19652837,
+          "sha256": "97b9dc288a588893f47954961083d6200e2ed4473afd70828eabce7bbab33cef",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-127.gz.part001"
+        }
+      ],
+      "packed_bytes": 19652837,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:09.249769+00:00"
+    },
+    {
+      "index": 128,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_qc4_full/manifests/train_content_review_primary.jsonl",
+      "size": 151424766,
+      "mtime_ns": 1792725406318381632,
+      "mode": 33188,
+      "sha256": "1cbe566789f83c55a189e69d75d4c9ce6d58e196ce46e0816ce298d114ba5058",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-128.gz.part001",
+          "size": 11575138,
+          "sha256": "1095eee3dc94a602f6cb8c0e48c1dd504e26a460eb01ea715c0ac65cf53a6746",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-128.gz.part001"
+        }
+      ],
+      "packed_bytes": 11575138,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:09.749115+00:00"
+    },
+    {
+      "index": 129,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T213429Z/supported_both_classes.jsonl",
+      "size": 149596866,
+      "mtime_ns": 1792791296880514301,
+      "mode": 33188,
+      "sha256": "ef70d772d7b1a9710e997b48af578aa04d4b04213570ce6120d3face9ac90b88",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-129.gz.part001",
+          "size": 19279166,
+          "sha256": "774341e1eae5992027478a2852bbc8deb6b70b9d43a82b4ee82e8a718eef9cdf",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-129.gz.part001"
+        }
+      ],
+      "packed_bytes": 19279166,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:09.486936+00:00"
+    },
+    {
+      "index": 130,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/attempts/node8-g6.jsonl",
+      "size": 144479125,
+      "mtime_ns": 1792951457753575648,
+      "mode": 33188,
+      "sha256": "bfad584ee024c0c493d60fc1afb8480b95a50e9b90cea6030de7034aa26b3153",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-130.gz.part001",
+          "size": 14415883,
+          "sha256": "ab1dd8fe4af1bf0563fc697b4922a6f6e0d2b2fc7d313e37298577f736df2ddb",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-130.gz.part001"
+        }
+      ],
+      "packed_bytes": 14415883,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:09.709718+00:00"
+    },
+    {
+      "index": 131,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T195225Z/schema_pass.jsonl",
+      "size": 143252137,
+      "mtime_ns": 1792785166617122762,
+      "mode": 33188,
+      "sha256": "4dd79642c6b1d454b89d17d3d04fdabdec461f3325d88d305733d2cd5f48de3b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-131.gz.part001",
+          "size": 18278497,
+          "sha256": "9165dc0791135d61fdcc7c788daf3f51c023736d2897718cedbb407898d84679",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-131.gz.part001"
+        }
+      ],
+      "packed_bytes": 18278497,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:10.364463+00:00"
+    },
+    {
+      "index": 132,
+      "path": "audio-driven-v5/experiments/listen_j_final_quality_selection_20261101/emotion_v00/retained_v00_index.csv",
+      "size": 143038331,
+      "mtime_ns": 1793495721922582355,
+      "mode": 33188,
+      "sha256": "ef8836b05e41e6c42309d6dac1aa9ac47a29c61db281e63320f1227702963810",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-132.gz.part001",
+          "size": 17571633,
+          "sha256": "63d1304a48c9d8fc078ff02947eaa13b13f1ad0db77490923455107daaac421c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-132.gz.part001"
+        }
+      ],
+      "packed_bytes": 17571633,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:10.696802+00:00"
+    },
+    {
+      "index": 133,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T211403Z/supported_both_classes.jsonl",
+      "size": 141689231,
+      "mtime_ns": 1792790069289467733,
+      "mode": 33188,
+      "sha256": "54549804749067304320b3594e81ee5e0765574eb318f7773e022da2dde6419c",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-133.gz.part001",
+          "size": 18238681,
+          "sha256": "88f51f8aa49a67ec55636f1d46c0e4b7ad7ee46ed1b026f6de8c98a7759be14d",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-133.gz.part001"
+        }
+      ],
+      "packed_bytes": 18238681,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:10.156518+00:00"
+    },
+    {
+      "index": 134,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T225000Z/open_events.jsonl",
+      "size": 139156561,
+      "mtime_ns": 1792795882224126494,
+      "mode": 33188,
+      "sha256": "cd344b5a2defa3a24de64d73ee3e85528e86f757fcdd1c4f0c4a79a24850aefd",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-134.gz.part001",
+          "size": 18410265,
+          "sha256": "1c079c1d7f019623037150a82b988d0afe8d499882b0569a3b6194b5991212df",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-134.gz.part001"
+        }
+      ],
+      "packed_bytes": 18410265,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:11.173455+00:00"
+    },
+    {
+      "index": 135,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T223555Z/open_events.jsonl",
+      "size": 136131355,
+      "mtime_ns": 1792794987633282999,
+      "mode": 33188,
+      "sha256": "8cd2bef5d43e3856fd25bc20b76cdbba9a4e3e7da1185a0cd8612751d0062e25",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-135.gz.part001",
+          "size": 18005221,
+          "sha256": "04666e0db4df95c70e2515acfc9acb87f023b6416e47e2f628a46f957b09032e",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-135.gz.part001"
+        }
+      ],
+      "packed_bytes": 18005221,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:12.095838+00:00"
+    },
+    {
+      "index": 136,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/train_onset_reserve_audio_reject.jsonl",
+      "size": 135744815,
+      "mtime_ns": 1792746925810281214,
+      "mode": 33188,
+      "sha256": "bd880bf58a47c967f495d816fb9097ecf22b2389955041c44f5d8d46b467a7f6",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-136.gz.part001",
+          "size": 18276923,
+          "sha256": "0606c5742229ae2d558037c038c345cf4390b8058b6acad6825ab458870396dd",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-136.gz.part001"
+        }
+      ],
+      "packed_bytes": 18276923,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:10.959810+00:00"
+    },
+    {
+      "index": 137,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T205338Z/supported_both_classes.jsonl",
+      "size": 133405256,
+      "mtime_ns": 1792788843114379329,
+      "mode": 33188,
+      "sha256": "55a09cc4805419e62ffc294c4dacb61846c2975bc0d79d36dcbe89662dffa8f1",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-137.gz.part001",
+          "size": 17146520,
+          "sha256": "250fe7e436a06965aa2fb79d4388110de5022c2e73c230bafa3a64cfd1ed682e",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-137.gz.part001"
+        }
+      ],
+      "packed_bytes": 17146520,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:10.620729+00:00"
+    },
+    {
+      "index": 138,
+      "path": "audio-driven-v5/experiments/p2_train300h_seven_20261027/manifests/targets.json",
+      "size": 132876206,
+      "mtime_ns": 1793070876723953987,
+      "mode": 33152,
+      "sha256": "2d92e296913371f8fed38d4011b6e098736704cf67cca79f48748f2659f3e5d6",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-138.gz.part001",
+          "size": 20137901,
+          "sha256": "a96d95bebd158e9a2e2e990e7be57aee894c7acbbaac25823ca0aa959e9f5cb3",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-138.gz.part001"
+        }
+      ],
+      "packed_bytes": 20137901,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:11.472980+00:00"
+    },
+    {
+      "index": 139,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T193205Z/schema_pass.jsonl",
+      "size": 132199407,
+      "mtime_ns": 1792783945669791887,
+      "mode": 33188,
+      "sha256": "2417417d05bb304d03fffd7354b25c7eef72ab7a566d5bd080048a4ea7ff97af",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-139.gz.part001",
+          "size": 16825745,
+          "sha256": "e1ccaabd37f8be76e96e6ff95ee289648d99358d0627f3dc5736f45ccf799178",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-139.gz.part001"
+        }
+      ],
+      "packed_bytes": 16825745,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:12.155987+00:00"
+    },
+    {
+      "index": 140,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T221525Z/open_events.jsonl",
+      "size": 129547386,
+      "mtime_ns": 1792793755758541828,
+      "mode": 33188,
+      "sha256": "a81b11fe70240fa9e366c67215573de4a0ab45306b17a2e8c8957fdba96f0a75",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-140.gz.part001",
+          "size": 17117020,
+          "sha256": "6e7d6bfe2800f03e0e1c472dc1987589b34d8dc2a3d51f052c74ae556c011720",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-140.gz.part001"
+        }
+      ],
+      "packed_bytes": 17117020,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.317920+00:00"
+    },
+    {
+      "index": 141,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T203308Z/supported_both_classes.jsonl",
+      "size": 125144865,
+      "mtime_ns": 1792787618539234329,
+      "mode": 33188,
+      "sha256": "c32b7629d5368b78df96d86aaa10032f4a6586ba2ea8aa4addeb9cc49a9e9bbe",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-141.gz.part001",
+          "size": 16058677,
+          "sha256": "90840cef01558f2cad959ab707d0f7174f3b1dee57034c9f1ed4e0f43fd5a16b",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-141.gz.part001"
+        }
+      ],
+      "packed_bytes": 16058677,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:11.480582+00:00"
+    },
+    {
+      "index": 142,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T215456Z/open_events.jsonl",
+      "size": 123432909,
+      "mtime_ns": 1792792525679542686,
+      "mode": 33188,
+      "sha256": "e889e620f959b83fbc36d7177eb33538c81074752c7d0e54610a761892c60a6d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-142.gz.part001",
+          "size": 16301637,
+          "sha256": "44408459bf18f162c2bc85270d965ac4a53c56abb194e694de9827f42c795049",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-142.gz.part001"
+        }
+      ],
+      "packed_bytes": 16301637,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.076283+00:00"
+    },
+    {
+      "index": 143,
+      "path": "audio-driven-v5/experiments/p2_train50h_audio_postprocess_20261026/records.jsonl",
+      "size": 123225935,
+      "mtime_ns": 1793021652806381519,
+      "mode": 33188,
+      "sha256": "3f4e9edc6d0ae03cada95ec8199b0fa0967cb0c3ae7fb0b6428f164728163e9c",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-143.gz.part001",
+          "size": 13600726,
+          "sha256": "393c4c63812cd3d03fcccd2bcc7602f5cdfef34bfa4bc18d478f16f42cd986e7",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-143.gz.part001"
+        }
+      ],
+      "packed_bytes": 13600726,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.345298+00:00"
+    },
+    {
+      "index": 144,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/evidence/0022.jsonl",
+      "size": 122839022,
+      "mtime_ns": 1792950227390807002,
+      "mode": 33188,
+      "sha256": "3fc15203ac6cf755e65e3aedce64dc8d514fcfc05abb9ca2bd60fc0e4a82a495",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-144.gz.part001",
+          "size": 9896188,
+          "sha256": "1dbbde93e0c6c802697935a9939537a49aab0e1b1eb2ec5817878db31b183ecd",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-144.gz.part001"
+        }
+      ],
+      "packed_bytes": 9896188,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.017248+00:00"
+    },
+    {
+      "index": 145,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T191147Z/schema_pass.jsonl",
+      "size": 121333377,
+      "mtime_ns": 1792782725538479889,
+      "mode": 33188,
+      "sha256": "cc91fd2c8fefdbe7b3c7c6284c4a19ab5b9432783e2640a10d9775d3320da542",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-145.gz.part001",
+          "size": 15400822,
+          "sha256": "2f14a300e4331d350ea02f51d45470b562d6151a101eb262a5c9ee0a45dc1c0a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-145.gz.part001"
+        }
+      ],
+      "packed_bytes": 15400822,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:12.812513+00:00"
+    },
+    {
+      "index": 146,
+      "path": "audio-driven-v5/experiments/p3_listen_300h/review_only.json",
+      "size": 120281253,
+      "mtime_ns": 1792599074639177242,
+      "mode": 33188,
+      "sha256": "e4f0e89d0743a544418dba637aada17d718dfbc3f67f66dad1084e580ca34230",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-146.gz.part001",
+          "size": 4744875,
+          "sha256": "54419b214704aa7e1e98fb3080492cf6310f7a3bdf0f8320e5568b521e402e68",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-146.gz.part001"
+        }
+      ],
+      "packed_bytes": 4744875,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:11.642529+00:00"
+    },
+    {
+      "index": 147,
+      "path": "audio-driven-v5/experiments/p2_train300h_open_20261027/manifests/targets.json",
+      "size": 120010621,
+      "mtime_ns": 1793072820942178875,
+      "mode": 33152,
+      "sha256": "af7d11368a12c855a07a545124a62fb1f51d782cafbafbd2be384d4eb6802c70",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-147.gz.part001",
+          "size": 18053469,
+          "sha256": "41485784c1b8d9261c933a729dee926875c0f9be94afeab525dcbbb6cb287faf",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-147.gz.part001"
+        }
+      ],
+      "packed_bytes": 18053469,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.280867+00:00"
+    },
+    {
+      "index": 148,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_local_full/manifests/dev_primary_keep_candidate.jsonl",
+      "size": 118562442,
+      "mtime_ns": 1792763353230764816,
+      "mode": 33188,
+      "sha256": "f7bea450646c1679541f559b6ae52b3716521dbff01df8efaba99330e79f37d4",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-148.gz.part001",
+          "size": 13847052,
+          "sha256": "8d4021a40c9d71301ff62d0c41ded398295ea8e6a9004336633336eef0d706a4",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-148.gz.part001"
+        }
+      ],
+      "packed_bytes": 13847052,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.718065+00:00"
+    },
+    {
+      "index": 149,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T213429Z/open_events.jsonl",
+      "size": 117043726,
+      "mtime_ns": 1792791296884514206,
+      "mode": 33188,
+      "sha256": "8f547db5be7825294261d19fa7ce6c2a6eb95e6cd45c6fdf433199c90b5de05d",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-149.gz.part001",
+          "size": 15446633,
+          "sha256": "e343349b4e95a518941737c46c984f17f70c6ed5550af745cf8cb1a60cd3e8e5",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-149.gz.part001"
+        }
+      ],
+      "packed_bytes": 15446633,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.500596+00:00"
+    },
+    {
+      "index": 150,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T201246Z/supported_both_classes.jsonl",
+      "size": 116849419,
+      "mtime_ns": 1792786388500258457,
+      "mode": 33188,
+      "sha256": "a5c049caf21999571e8625455c27b09a8439e056dc51833dee4762026edf0d24",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-150.gz.part001",
+          "size": 14968781,
+          "sha256": "6ed4ea0fa63e791f0c562e403f3ced8bd71b3380527b3bb3dfd39aebdc7f2406",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-150.gz.part001"
+        }
+      ],
+      "packed_bytes": 14968781,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.599052+00:00"
+    },
+    {
+      "index": 151,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_qc4_full/manifests/train_repair_reserve_onset_reserve.jsonl",
+      "size": 115782301,
+      "mtime_ns": 1792725406330381391,
+      "mode": 33188,
+      "sha256": "c38cbed053880763b0ebfa46d976843eeb5365bae354e3d38f807f725284b496",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-151.gz.part001",
+          "size": 8745460,
+          "sha256": "8294ff83a4febb3f303bdf3e6f9e1b91041cbd0ca3d7f3fc3989ff41f3cd7937",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-151.gz.part001"
+        }
+      ],
+      "packed_bytes": 8745460,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:13.580253+00:00"
+    },
+    {
+      "index": 152,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T211403Z/open_events.jsonl",
+      "size": 110757482,
+      "mtime_ns": 1792790069297467544,
+      "mode": 33188,
+      "sha256": "da5125e0ef89df55c92f0c247d3fb439ffab82e6b09d767be812fbb2f4cfef4b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-152.gz.part001",
+          "size": 14603969,
+          "sha256": "99613c2c6dcff62a0732bcaa2c2de74b5c3460bb84d1d401a33f793a54aec097",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-152.gz.part001"
+        }
+      ],
+      "packed_bytes": 14603969,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:15.099371+00:00"
+    },
+    {
+      "index": 153,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T185131Z/schema_pass.jsonl",
+      "size": 110538770,
+      "mtime_ns": 1792781507647203663,
+      "mode": 33188,
+      "sha256": "a717b44f8e8801d6d7fd00f6fa86dccb8ddd82bab7db1823b5806255a4c7df82",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-153.gz.part001",
+          "size": 13979624,
+          "sha256": "216a7ed730b8d285708f447ce64d375bbc2dcbd61262d9f854ca46b235026856",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-153.gz.part001"
+        }
+      ],
+      "packed_bytes": 13979624,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.357734+00:00"
+    },
+    {
+      "index": 154,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T195225Z/supported_both_classes.jsonl",
+      "size": 108851339,
+      "mtime_ns": 1792785166629122479,
+      "mode": 33188,
+      "sha256": "fd264788a5ac58b29c4ecf1bc7d61a436efb58486c55f5a271c3482fefac591b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-154.gz.part001",
+          "size": 13916154,
+          "sha256": "a1edf85208ad2652840578aebccf56953f8f658d096450ee1c0637d10b3345fe",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-154.gz.part001"
+        }
+      ],
+      "packed_bytes": 13916154,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.505666+00:00"
+    },
+    {
+      "index": 155,
+      "path": "audio-driven-v5/experiments/p2_test24_backchannel_face_20261027/eligible_candidates.jsonl",
+      "size": 107515839,
+      "mtime_ns": 1793059865756250482,
+      "mode": 33188,
+      "sha256": "47dfe84000b8568e53ed81805788ff4b06d2290c779c078deb65076d174dcc6f",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-155.gz.part001",
+          "size": 15222145,
+          "sha256": "baf65936b53e2d00f073d44ae105589db882bd8e21f7d1391365ed074b95b6ef",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-155.gz.part001"
+        }
+      ],
+      "packed_bytes": 15222145,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:15.334021+00:00"
+    },
+    {
+      "index": 156,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/evidence/0301.jsonl",
+      "size": 107501593,
+      "mtime_ns": 1792947995940494711,
+      "mode": 33188,
+      "sha256": "18988964fc9a749155b345257966cc883bcfdc96b4e5cc36b1dee3585c3eb3c8",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-156.gz.part001",
+          "size": 8531827,
+          "sha256": "0f126c2c81755d658d41245fe6fbf21da8398318ac405b30eeb892978f96b080",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-156.gz.part001"
+        }
+      ],
+      "packed_bytes": 8531827,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:15.079819+00:00"
+    },
+    {
+      "index": 157,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/evidence/0657.jsonl",
+      "size": 106297437,
+      "mtime_ns": 1792949182599906769,
+      "mode": 33188,
+      "sha256": "87c47426ca52600257790429f12243d5a515d99cb048e28ca2568e2ed49a898a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-157.gz.part001",
+          "size": 8636640,
+          "sha256": "61e7cd78a365f9869eb073774e3666c4c71b6d329ff5b06b660f950e6f1c2e29",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-157.gz.part001"
+        }
+      ],
+      "packed_bytes": 8636640,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.393282+00:00"
+    },
+    {
+      "index": 158,
+      "path": "audio-driven-v5/data_corpora/seamless_listen_v8_audio_final_full/manifests/test_primary_keep_candidate.jsonl",
+      "size": 106188145,
+      "mtime_ns": 1792746914478516057,
+      "mode": 33188,
+      "sha256": "5a35adb137169642812a3762f114d69723e1ca9cbb1b4179ff2574130c9cdc7a",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-158.gz.part001",
+          "size": 11566261,
+          "sha256": "90e0535933d2d1337d7b8ce48bad9cf0a64e98bf134b8ff86fef6ef89d7c127a",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-158.gz.part001"
+        }
+      ],
+      "packed_bytes": 11566261,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.917494+00:00"
+    },
+    {
+      "index": 159,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/evidence/0118.jsonl",
+      "size": 104573923,
+      "mtime_ns": 1792950530084545258,
+      "mode": 33188,
+      "sha256": "72feff715487e5d8695fdd33def54d8eaf90d0793019ff3837e54f90ebc59d16",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-159.gz.part001",
+          "size": 8373451,
+          "sha256": "1d1122ee47a5e620e7861425e2bb2c2daa0a8b631fbf849e9a6962520ddbeb47",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-159.gz.part001"
+        }
+      ],
+      "packed_bytes": 8373451,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:14.733636+00:00"
+    },
+    {
+      "index": 160,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T205338Z/open_events.jsonl",
+      "size": 104330776,
+      "mtime_ns": 1792788843122379141,
+      "mode": 33188,
+      "sha256": "b4cff2bd909e871e6f9cdad517d7ccb186a45b2223a34ab6a54e0e6e38954746",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-160.gz.part001",
+          "size": 13739195,
+          "sha256": "c15d9e2c5650ec18b1496bdb3137d9aa3d150181f9d270d81ac0be6659635ea6",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-160.gz.part001"
+        }
+      ],
+      "packed_bytes": 13739195,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:16.243752+00:00"
+    },
+    {
+      "index": 161,
+      "path": "audio-driven-v5/experiments/listen_full_fusion_crop384_20261025/evidence/0667.jsonl",
+      "size": 101533771,
+      "mtime_ns": 1792950490781359682,
+      "mode": 33188,
+      "sha256": "40459a538e6d2e092ec1e84020ebe68680c00aa6d19af910f89b9751778002ab",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-161.gz.part001",
+          "size": 8193860,
+          "sha256": "4e6cdcdbf0079fe32645ca61007a0505e739173acaed5c9492d9cdd819d418e4",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-161.gz.part001"
+        }
+      ],
+      "packed_bytes": 8193860,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:15.087596+00:00"
+    },
+    {
+      "index": 162,
+      "path": "audio-driven-v5/experiments/listen_labeling_full_20261023/exports/20261023T193205Z/supported_both_classes.jsonl",
+      "size": 100403410,
+      "mtime_ns": 1792783945677791700,
+      "mode": 33188,
+      "sha256": "1e2823758476afc8c051313dec432c4c889a9cc0cd413cad397c35250d4fcf5b",
+      "encoding": "gzip",
+      "parts": [
+        {
+          "name": "manifest-162.gz.part001",
+          "size": 12800238,
+          "sha256": "56c29a41372511409c49ab9331549f9d9684337d7797d1e51f809899098a253c",
+          "download_url": "https://github.com/li-qi-lin/audio-driven-v5-large-manifests-backup/releases/download/large-manifests-20261113/manifest-162.gz.part001"
+        }
+      ],
+      "packed_bytes": 12800238,
+      "verified": true,
+      "copied_utc": "2026-11-13T16:15:16.006457+00:00"
+    }
+  ]
+}

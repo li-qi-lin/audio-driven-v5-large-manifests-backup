@@ -1,0 +1,11 @@
+{
+  "status": "uploading",
+  "repository": "li-qi-lin/audio-driven-v5-large-manifests-backup",
+  "release_tag": "large-manifests-20261113",
+  "original_files": 162,
+  "original_bytes": 179885025283,
+  "compressed_bytes": 20362189198,
+  "payload_assets": 174,
+  "code_backup_url": "https://github.com/liqilin-eudaemonia/audio-driven-v5-data-processing/tree/backup-20261113-155045",
+  "scope": "All 162 previously excluded manifests over 100 MB. Other large data remains excluded under the previous agreed scope."
+}
